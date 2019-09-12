@@ -1,0 +1,2335 @@
+[
+    {
+        "address":"340 E Flamingo Rd",
+        "attributes":{
+            "BikeParking":"True",
+            "Caters":"False",
+            "OutdoorSeating":"True",
+            "BusinessAcceptsCreditCards":"True",
+            "ByAppointmentOnly":"False",
+            "GoodForMeal":"{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+            "WiFi":"u'free'",
+            "RestaurantsTakeOut":"True",
+            "BusinessParking":"{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+            "RestaurantsDelivery":"False",
+            "RestaurantsPriceRange2":"1"
+        },
+        "business_id":"q3kk9PciPb6LpwurlE9eVg",
+        "categories":"Coffee & Tea, Food",
+        "city":"Las Vegas",
+        "hours":{
+            "Monday":"4:30-17:0",
+            "Tuesday":"4:30-0:0",
+            "Wednesday":"4:30-0:0",
+            "Thursday":"4:30-0:0",
+            "Friday":"4:30-0:0",
+            "Saturday":"4:30-0:30",
+            "Sunday":"4:30-18:0"
+        },
+        "is_open":1,
+        "latitude":36.11471,
+        "longitude":-115.157467,
+        "name":"Starbucks",
+        "postal_code":"89109",
+        "review_count":115,
+        "stars":3.5,
+        "state":"NV",
+        "reviews":[
+            {
+                "cool":4,
+                "date":"2016-11-10 00:11:48",
+                "funny":4,
+                "review_id":"e1mjXzIuWW9jBbAaw4tPpg",
+                "stars":1,
+                "text":"Quite possibly the worst Starbucks location I've been to. There were only 2 cars in front of me at the drive-through so, no, not busy at 2pm. I figured I'd grab some coffee before I fall asleep during a 30-minute drive and this location was on the way after leaving UNLV.\n\nI ordered a GRANDE mocha frappuccino with a shot of espresso, no whipped cream, and chocolate syrup on top. I repeated myself at least 3 times because the lady at the drive through kept saying the wrong thing. What they gave me the first time was a mocha frappuccino with whipped cream and chocolate chips - which was not what I asked for. The lady seemed annoyed. Within 10 seconds, she hands me a TALL (all 2/3 of it, so generous!) mocha frappuccino, no whipped cream, and chocolate syrup on top.\n\nThis would be the last time I'd go to this location. Service and product were both sub par.",
+                "useful":7,
+                "user_id":"tH0uKD-vNwMoEc3Xk3Cbdg"
+            },
+            {
+                "cool":0,
+                "date":"2018-05-08 19:17:24",
+                "funny":0,
+                "review_id":"SIOLi_9mKVK7mf4N5JGoVA",
+                "stars":2,
+                "text":"I am sooo upset that I ordered 2 blonde vanilla latte's via mobile app. When I went in after sitting outside for 10 minutes, they guy made me 2 americanos. I ended up waiting for my vanilla latte's and I should have tasted them before I left but I was in a hurry at that point to get to work. I get to work and the latte was literally milk and coffee, no flavor and it tasted so bad I threw it out.",
+                "useful":0,
+                "user_id":"YsL6vAU_COmCnP0iZk0PGA"
+            },
+            {
+                "cool":0,
+                "date":"2015-07-17 11:07:01",
+                "funny":0,
+                "review_id":"ufjQRLGy7Dz4kEW32PVmKQ",
+                "stars":4,
+                "text":"I'm comfortable at this location. Fact it's close and open until midnight are positives. The employees as a whole are very good.",
+                "useful":0,
+                "user_id":"IM4RlcY27r36LWQvjUvLrQ"
+            },
+            {
+                "cool":0,
+                "date":"2017-12-03 15:45:26",
+                "funny":1,
+                "review_id":"Q7WKBx_GU87y709FzQg1Lw",
+                "stars":1,
+                "text":"If I could, I would give this location NO stars. Unfortunately I have to give at least 1 in order to write a review and warn people about the extremely disrespectful employees at this location. I absolutely HATE this location. I visit starbucks a LOT - on a daily basis (sometimes 2 to 3 times a day), and in all the time I have been a customer with them I have never had such a horrible, humiliating experience. I went through the drive-thru to buy two toffee nut lattes with caramel drizzle around the cup, and a steak tomatillo wrap. When I payed  and received my items, I looked over my receipt and saw that I was charged $0.50 each just for the toffee nut syrup. At first it wasn't a big deal, I just thought \"oh that's new, I don't remember ever being charged for the specific syrup before at any other location.\" So I politely asked a woman named May in the window, \"when did they start charging for the toffee nut syrup? I've never seen that before.\" She rolled her eyes at me, gave me a dirty look, said \"well we do here\", and turned her back to me. I have already had problems with employees in the window giving me attitude at this location once before. I parked out front, went inside, and asked an employee if they could please give me the name of the woman in the window, because I needed it in order to file a complaint with the manager. Now, keep in mind, I have seizures and I stutter when my stress is increased. The male employee turned and laughed through my stuttering as I asked this and told me her name was May. He then continued chuckling and told me, \"you can complain all you want - nobody cares.\" Word. For. Word. No exaggeration. I couldn't take being talked down to there anymore, so I left. I went out to my car and called inside the store from there. A man picked up the phone, and I asked if I could please speak with the manager on shift. He replied, \"yeah that's me, this is my shift.\" I recognized his voice and asked him, \"are you the man I just talked to inside the store? The one who gave me May's name?\" He confirmed it was him I spoke to. So I asked him, \"Oh alright, so what is your name? And you said you're the manger? Because I will be talking to Lauren, the other manager, as soon as I can and telling her about what I experienced today.\" (Lauren is a very nice and polite manager I met the LAST time I had a problem here). He replied, \"My name is Gerardo, but no I'm not a manager.\" I told him, \"Wait a minute, but the first thing I asked when I called was if I was speaking to a manager, and you told me yes.\" He responded, \"No I didn't, because I'm not a manger. We don't have a manager working today.\" So long story short, I highly recommend never coming here. This all was completely avoidable and there was absolutely no reason I should've been treated this way.",
+                "useful":1,
+                "user_id":"xCNOowgwaoYGR4sZ7o70Yg"
+            },
+            {
+                "cool":5,
+                "date":"2014-10-13 15:35:22",
+                "funny":3,
+                "review_id":"ov9aMRLhVyflKfbQWa-xKA",
+                "stars":5,
+                "text":"This update is long overdue. I've been visiting this location when I come into town for business or pleasure which is at least once a month.\n\nI usually arrive in the am and the staff here is what make this location so unique and special. Daily customers which I've met two - get their coffee brought to them in regular coffee cups! The staff knows their clients so well they are preparing their orders before they reach the counter. This location also offers the Starbucks Reserve products and has a clover machine for preparation of one cup of reserve at a time!\n\nThank you to entire staff at this location for your outstanding service & quality!",
+                "useful":5,
+                "user_id":"o4tYl3Hz0oDfpNn4k02DCw"
+            },
+            {
+                "cool":0,
+                "date":"2017-03-05 06:32:50",
+                "funny":0,
+                "review_id":"MUuwKB-t9zy0bfkagYNmUg",
+                "stars":5,
+                "text":"This is a good starbucks, since it's open late. I think it also makes pretty good use of the space that it has, and it's usually not too busy. Not in my experience, at least. Good place to bring a laptop and put headphones in while enjoying a drink. No problems with the service.",
+                "useful":0,
+                "user_id":"KYX7kJDSnT2nDBH7SctIfQ"
+            },
+            {
+                "cool":0,
+                "date":"2017-08-09 13:46:43",
+                "funny":0,
+                "review_id":"Pksim-1o7aRocY3NNbv-gA",
+                "stars":1,
+                "text":"I normally go to this Starbucks once a week before 6:30am. It's convenient cause it's near the strip without paying the hefty prices! Usually they are great with my order. Never got a complaint from me...until today.\n\nI admit I do have a complex drink order. But I'm more than happy to repeating it 2 to 3 times to make sure they get it right. After saying my order to the older lady at the drive thru. She seemed hesitant but told me the price. I get iced espresso with added flavoring, soy and extra ice. This time around I asked for one shot less so I wouldn't be jittery; yet the price was more than my normal order. I assumed they raised the prices again. Pulled forward. Paid my drink and drove off.\n\nIt wasn't until I drove to work that I looked at my drink and saw that the label on my drink said macchiato which explained why the price shot up about 75 cents. After taking a sip or two, it tasted so bitter compared to what I normally get. So I called to speak with the manager. The manager seemed nice enough asking what drink I had. Then I heard the same lady from the drive thru arguing in the background saying it wasn't true. That it was the right drink. She just charged me wrong but I got what I ordered. She proceeded to get on the phone and explain this to me. I was clocking into work so I didn't want to argue over a few cents with someone that was obviously acting defensive.\n\nAfter trying to drink a little longer I realize that there was no flavoring at all. Which I paid more to be put in the drink in the first place.\n\nI'm going to wait until the manager. I was a barista at Starbucks and never did I even think about getting on the phone and arguing with a customer.\n\nI will now take the longer route to go to a different Starbucks. At least that one has some customer service.",
+                "useful":2,
+                "user_id":"HQUx_q8IhSrJX3GPdUvO_g"
+            },
+            {
+                "cool":1,
+                "date":"2015-07-30 01:40:29",
+                "funny":1,
+                "review_id":"rVw4jojn6ElbQuFPVmeXRg",
+                "stars":4,
+                "text":"Came to this location before work the other day, and since there was like 4 cars in front of me I thought it was going to take for ever. But surprisingly it was really quick and my order was done correctly. The employee was really nice and friendly. I would love to come back here again.",
+                "useful":3,
+                "user_id":"SoiacX2r2mvHqIh3GgRMUw"
+            },
+            {
+                "cool":0,
+                "date":"2016-01-18 07:03:02",
+                "funny":0,
+                "review_id":"nKaBZT6jkaeCDhY-TePsAw",
+                "stars":4,
+                "text":"What can I say about starbucks? Starbucks is starbucks. Now location is another thing. Location here is fine. Size is good. I came here to read a few books and study and the noise was quiet to moderate. The place was kept clean. I don't remember if this is the location that just had the hand drier in the bathroom, usually they also offer paper towels.\n\nThe drinks are pretty universal when you're talking about starbucks. I get the caramel macchiato and it is done. The staff is friendly as well. I also tried one of their fraps which was decent. Another note, I shouldn't complain about starbucks prices but they are relatively expensive. And the line can get a little long.\n\nIn terms of pastries, they are average to good. Starbucks always changes up their pastries so its hard to judge the places. For instance, I used to love getting the chocolate cake pop. Some places have them others don't. Another thing was the rice krispy treats, they seemed to have done away with that completely and now only have the factory wrapped ones which aren't nearly as good. \n\nOther than this I don't have much to say. If you are looking for good coffee and a nice place to read then this is a good place.",
+                "useful":0,
+                "user_id":"BGZcv3B3mlofVJYG_TTsMw"
+            },
+            {
+                "cool":0,
+                "date":"2016-04-23 06:20:29",
+                "funny":0,
+                "review_id":"RSl8cBW70-Gf0ptH2MzAEw",
+                "stars":4,
+                "text":"I love it ..so nice staff nice hangout place",
+                "useful":0,
+                "user_id":"HIIsX5PndKxf5GZtXwprhw"
+            },
+            {
+                "cool":0,
+                "date":"2014-02-06 18:18:34",
+                "funny":0,
+                "review_id":"LMVVcJw8MY-ovxU-DeKXIA",
+                "stars":4,
+                "text":"The baristas w/o the Jeremy Piven headsets are the most customer service oriented. (IMHO). I guess the headsets are an attempt to be efficient, hip, and techie. But plain ole customer service is dipping slightly. I guess SBUX, once the Pike Place Market of the world, is trying to be the Tiffany/Prada of the world. \nStill, when I travel, I seek out the chain because it is fairly consistent.",
+                "useful":0,
+                "user_id":"dA7smMo-z6VNmgNzyd640Q"
+            },
+            {
+                "cool":0,
+                "date":"2015-04-02 01:55:26",
+                "funny":0,
+                "review_id":"QaFQDfAZhm3o3xZE1RViOg",
+                "stars":1,
+                "text":"Wow, who manages this place?  My simple coffee with room for cream was filled to the brim (had to dump some out), but no big deal.  Then my daughter's was made completely wrong (not even close) so they had to remake it but didn't bump it to the front of the queue.  Note that she works at Starbucks so knows how they are supposed to handle this!  Then they made it wrong again!  By that time we just left, not to come back again.  If you think this is a good starbucks you really don't know what the hell you're doing.",
+                "useful":0,
+                "user_id":"0dOZdotudoK5B54p815q9g"
+            },
+            {
+                "cool":0,
+                "date":"2018-08-05 12:50:36",
+                "funny":0,
+                "review_id":"bepXh7BcDm9kLULJkRYg8A",
+                "stars":1,
+                "text":"What's up with this Starbucks ? It's sooooo expensive! It's also hard to find and their parking lot is weird kind of reminds me of a maze. For 1 tall frappe and 1 venti frapp... total came to nearly $12. Wow, I won't be back!",
+                "useful":0,
+                "user_id":"AjQVpSaAihkhQuzszKHzZw"
+            },
+            {
+                "cool":1,
+                "date":"2014-02-07 19:42:54",
+                "funny":1,
+                "review_id":"zd7HkQ0DPgt2QGKYvzgJmQ",
+                "stars":4,
+                "text":"Seems this particular SBUX thrives on a crowd. The bigger the crowd, the more efficient the staff becomes. Gotta love that! I was maybe 15th in line- but it moved surprisingly quickly. The outside table clean-up is, at best, meh. \nYou get yer caffeine buzz AND yer crowd buzz at this joint.\nHowever, if you order an espresso, and ur eligible for a free re, you gotta get one of their blended coffees- no free re on anything else. To me, their blended coffees are ehh, no good. If you like ur coffee foo-foo'd up, mbe they're alright. I like mine like I like the night-black. No foo-foo.",
+                "useful":1,
+                "user_id":"dA7smMo-z6VNmgNzyd640Q"
+            },
+            {
+                "cool":0,
+                "date":"2016-07-17 21:40:48",
+                "funny":0,
+                "review_id":"hGDmXMlhlS3y7Q70XYGXFA",
+                "stars":5,
+                "text":"I have to say they are Number one plays. \nGrate service............ \nI will ceep coming over evryday......\nI will recommend this place allways.........",
+                "useful":0,
+                "user_id":"ttV7LFe4atjb9c7MZHn7Bw"
+            },
+            {
+                "cool":6,
+                "date":"2015-04-17 21:29:29",
+                "funny":4,
+                "review_id":"GZ6ZXNUHDKaHa3MDOFvQfg",
+                "stars":5,
+                "text":"Best of them all. Super friendly and fast baristas serve your coffee drink here in this still brand new location. This Starbucks serves as a a/c-ed shelter when the heat is out and as a convenient checkpoint with their drive-through window. \n\nThe industrial/retro design inside is beautiful and the place spacious. The menu offers all the latest Starbucks drinks, including clover coffee.\n\nState of the art!",
+                "useful":6,
+                "user_id":"HKC-j6ShF_wUfB0q1BH5cw"
+            },
+            {
+                "cool":0,
+                "date":"2016-05-09 15:52:32",
+                "funny":1,
+                "review_id":"eGughuX80FFgP75HX6h-Ig",
+                "stars":1,
+                "text":"This Starbucks has the rudest employees out of any Starbucks I've been to.  Will never be back to this location.",
+                "useful":1,
+                "user_id":"R1WlWAzjeMkAg4keap7K4g"
+            },
+            {
+                "cool":0,
+                "date":"2017-04-21 19:49:08",
+                "funny":0,
+                "review_id":"vfbZciKW8LUSHAaObWaQ-w",
+                "stars":1,
+                "text":"If I can give this place a complete ZERO RATING I would but I can't so there's that. I literally have gone here three time first two times weren't bad at all UNTIL today it was so bad I have to write a review because I'm not coming here again. We pull up to the window and tell this lady our order which I don't think she was listening because she repeated it and was not what we ordered. THEN we repeat the order and she still doesn't get it so I from the passenger side had to shout over my sister to correct this order. After this happened I was like okay well... let's see how the order goes. First I get my strawberry refresher which one had NO strawberries, I only asked her if she would be able to add strawberries she looked at me as if I asked her to give me my money back. Second she gives us the grande drink which the cap of it \"DOESNT FIT\" mind you we are in the car and the drink had whip cream up top. So I asked is there anything that fits the cap she AGAIN looked at me like I was in the wrong. She took it back and said oh I there's nothing that fits, so in my defensive this can't be the first time this has happened people must be complaining about that cause whip cream spilled when she handed us the drink. Not to mention she gave me the food I ordered and then said, \"oh never mind give that back that's not your order.\" Literally just wanted to leave but they still had my damn drink putting strawberries in it during this whole process. SUPER ANNOYED. Not coming back!",
+                "useful":0,
+                "user_id":"maXQVBpMH4mbwMgHQtr7Ow"
+            },
+            {
+                "cool":9,
+                "date":"2014-01-01 00:29:31",
+                "funny":9,
+                "review_id":"tEpHLvZt8dhsGMD3Xl2IvA",
+                "stars":4,
+                "text":"Re-locating from the location at 395 Hughes Center Drive where Starbucks hold the memories to remember and recall.  My favorite Starbucks Coffee Shop that just melts me like butter on pancakes, like whipped cream over hot chocolate is now in a newer, bigger location transferring from 395 Hughes Center Dr. to this location by the corner of Hughes Center Parkway, on E. Flamingo Road. So it is a welcoming place as it is a stand-alone building that's newly-built. Wide, panoramic windows lets in the light for a brighter feel with roadside views. Oh, to just people-watch or rather vehicles-passing-by-watch for the watcher in you! As expected, the effervescence of hot brewed coffee permeates the air and lingers to my nostrils' delight! Jazz music adds to the vibe, allowing my senses to relax and imbibe on a beverage of my choice. Take a pick from nice brewed green hot tea, decaffeinated coffee, cool iced tea, delicious coffee, and  various beverages. Choices of baked goods from bagels, to cakes as well as sandwiches and an assortment of desserts, bagels, chips, nuts, meal wraps, dried fruit to whet your appetite. Imbibe, linger, socialize over delicious beverages indoors or outdoors on its small patio under green umbrellas for delighting in the fresh air. Also a breeze of a gain from getting feet off the ground just to obtain the beverage while on-the-run via its Drive-Thru service. Starbucks looks like a little castle surrounded by spaceousness. Ample parking surrounds the new contemporary building. Coffee Hours are from Mondays - Sundays at 4:30 AM - 12:00 AM...that's great hours for the owls and early risers. Coffee servers are ever attentive and happy to serve. Sip your favorite beverages or Coffee, anyone?",
+                "useful":9,
+                "user_id":"l1CtGHiqB349YrmxjIcgng"
+            },
+            {
+                "cool":0,
+                "date":"2017-06-29 07:06:56",
+                "funny":0,
+                "review_id":"mg5TCeTDtLSY9WH4-dHGkA",
+                "stars":2,
+                "text":"I really hate leaving a bad review for places but I literally come here EVERYDAY since I live 2 blocks away and the drive thru is convenient. Everyday I order the same exact 2 drinks and everyday they MESS IT UP! If it's not one drink it's the other. I even ask them to say it back to me to be sure that when I get to the window it's  correct.  I've gotten attitude from one of the employees about it the others typically just fix it. But it really is not my fault they can't get it right the first time even after I've told them twice.",
+                "useful":1,
+                "user_id":"Vag0RBu8MOJuswTIV3aV_A"
+            },
+            {
+                "cool":36,
+                "date":"2015-07-30 02:08:38",
+                "funny":31,
+                "review_id":"OW2RDiTh9nY7va3HHwo4HA",
+                "stars":5,
+                "text":"I was meeting someone in the area and arrived a bit too early, so I spent the extra time I had at this Starbucks location. I was impressed with the amount of space this one offers and how friendly, helpful and quick the service was that I received. Inside is kind of long and narrow and they have plenty of tables scattered about and a long bar with stools as well a nice long table to that's hard to miss as you walk in. They had plenty of fresh fruit available and the usual pastries. The inside was a bit crowded, so after sitting inside for about 10 minutes I decided to move out to the patio since it was a nice afternoon outside. They have tables and chairs outside the front door and then a spacious patio on the side on the building with tables and chairs. If you are one of those who loves a Starbucks with a drve-thru then you will be happy to find out that is an option here as well. All in all this is a solid location and am glad I stopped by.",
+                "useful":40,
+                "user_id":"Fv0e9RIV9jw5TX3ctA1WbA"
+            },
+            {
+                "cool":0,
+                "date":"2017-11-20 19:48:45",
+                "funny":0,
+                "review_id":"9oaP-RpxGx9jTsdmgb0h0Q",
+                "stars":5,
+                "text":"This store rocked this morning!!!  -Vegas Baby!  From the register, to the staff making the drinks, the most efficient operation I've seen at a Starbucks. At the register, I placed three food orders ,three drinks, moved credit from a gift card to a Gold card, receipts given, all handled very quickly. The baristas got the drinks prepared quickly, correctly and efficiently. I was very impressed! I thanked the staff and told them so.",
+                "useful":0,
+                "user_id":"ZL2OqGvRlTpsB-77PPRwFQ"
+            },
+            {
+                "cool":0,
+                "date":"2017-01-05 07:44:34",
+                "funny":0,
+                "review_id":"AAp2wiaYUrEEucmko_y5WA",
+                "stars":5,
+                "text":"Michelle was our barista and served us with a smile. She took excellent care of us and was friendly and helpful. I'd go out of my way to stop at this Starbucks again.",
+                "useful":0,
+                "user_id":"4sTNXclR6TKyIpIS_q6YoA"
+            },
+            {
+                "cool":0,
+                "date":"2016-08-27 19:15:06",
+                "funny":0,
+                "review_id":"9ElEoLMZ93PS8lm6QI0wgg",
+                "stars":1,
+                "text":"I only gave 1 star because it makes you in order to leave a review. This location is slow and the customer service is terrible. They charged me for the wrong drink which was more money than my actual drink I wanted and then the female Barista decided it was ok to give me attitude about it and didn't refund me the difference. Buy Folgers instant coffee and make it at home out of your toilet before you waste your money on this location. Very disappointing service for Starbucks.",
+                "useful":1,
+                "user_id":"7VhHZCAX6QoLgQYmxlHPkw"
+            },
+            {
+                "cool":3,
+                "date":"2017-03-17 23:00:49",
+                "funny":0,
+                "review_id":"e3gw6cSNjfbsvcjFD_9_tQ",
+                "stars":5,
+                "text":"Awesome baristas, great parking and my drink tasted great!",
+                "useful":0,
+                "user_id":"U5vnrSTvaoFLdaFoe5r1Yg"
+            },
+            {
+                "cool":0,
+                "date":"2016-01-07 02:11:10",
+                "funny":4,
+                "review_id":"rubetdJtF9c_M0H4qDX8oQ",
+                "stars":1,
+                "text":"HI LOLA !\n\nUr customer service sucks! U need to learn how to talk to ur customers before working at a customer service field ^^\n\nI came in here to order three travelers but went through the drive thru and they said we have to order that inside so we came inside to order them. Then LOLA looks at me and said \"u think u can order that through drive thru?! U have to come into order them\" ok i didnt know so i ordered the travelers (3 of them) and asked how long would it take and she goes \"WELL WE HAVE TO BREW THE COFFEE\" like i know how long it takes to brew three travelers. So i asked her so how long would it take and she looks at me like I AM DUMB and say \"abt 15 mins\" i dont want attitude from u... If u dont like ur job... Please just quit... And do us a favor and not make other ppl feel like shit...\n\nTHANK U ! But please learn how to talk to customers. And dont think that ppl know what u know... I hope i dont see u when i come back here ^^\n\nBy the way beautiful and clean starbucks ... Its just LOLA.",
+                "useful":0,
+                "user_id":"nKSvzpj6TXUcp_3Kzm1GRg"
+            },
+            {
+                "cool":0,
+                "date":"2014-07-01 00:18:29",
+                "funny":0,
+                "review_id":"YJflzKhp6ac74q7CgZMUEw",
+                "stars":5,
+                "text":"As a barista at this store I won't leave my biased review :P however, I just wanted to say that the staff will be relieved when I tell them that this is why people take pictures of us sometimes. It was beginning to creep us out a little, hahaha. Also, if we ever had Ethiopia Yirgacheffe for the clover brewer again you REALLY REALLY need to try it!",
+                "useful":0,
+                "user_id":"1YxH8Wh3yFEebaCTjJwVZg"
+            },
+            {
+                "cool":1,
+                "date":"2018-02-25 22:32:28",
+                "funny":2,
+                "review_id":"L3qS-f5mY1SSTCpAYMqCBw",
+                "stars":4,
+                "text":"Disclaimer: I can really only speak to the drive-thru, weekday, AM crew. All of my visits to this location have been between 7am and 8:30am. \n\nTo be honest, I try to take advantage of the coffee we have at work. My thought behind this is that if I can save money that would otherwise be spent on Starbucks, I can use that on ordering all the things at a new place on my \"need to try sometime\" list. But, on the occasional \"eff it Friday,\" this is my go-to location for a few reasons:\n\n1. Proximity. It's on the way to work. Enough said there. \n2. Drive thru. It's early. I'm lazy. Sue me.\n3. Service. The woman who usually works the drive-thru window is so bright and cheery that it's contagious. I'd even dare to say that I end up not needing the caffeine boost from the venti pike roast that I usually order. \n4. Speed. I usually arrive before the line is so horrendously long that you decide to walk in and save some time. However, on the few occasions where the drive-thru line snaked beyond the allotted path, the wait was always far shorter than I would imagine. \n5. Ability to redeem rewards. I work on the strip. I usually take in an afternoon treat at the Starbucks nearest to me, but the problem is that location can't take rewards. It's annoying. It's lame. I can't change it. Thankfully, this location gives me a chance to prevent that hard earned overly priced reward from going to waste. \n\nGood, solid, spot.",
+                "useful":4,
+                "user_id":"5DFshFQlbQiQTvtzH7qwlA"
+            },
+            {
+                "cool":2,
+                "date":"2016-04-25 15:55:13",
+                "funny":1,
+                "review_id":"LL4M7etOGDbhE6YjzuXtkA",
+                "stars":5,
+                "text":"Open until midnight.. Probably only a few of these in Las Vegas! We had ordered a Caramel  Frapp with extra whip cream and extra caramel. And it was just the way my wife wanted. Very polite barista. Did not wait long. I recommend coming to this one if you want Starbucks late and like the extra toppings on your drinks.",
+                "useful":1,
+                "user_id":"HNih-GlBsqSvVUIdPlUO9Q"
+            },
+            {
+                "cool":0,
+                "date":"2016-08-16 16:03:43",
+                "funny":0,
+                "review_id":"340WprtfQs43kIG_1KTeRw",
+                "stars":1,
+                "text":"Waited in the drive through for 35 minutes this morning. It only fits about 8-10 cars. So that's not okay. One car spent nearly 10 minutes at the window. No hello when I got to the window and no sorry for the crazy wait.\n\nAnd on top of that, prices are higher here.",
+                "useful":0,
+                "user_id":"ZjVS2eUMglYnBfUu-pNXAw"
+            },
+            {
+                "cool":0,
+                "date":"2015-04-20 18:56:01",
+                "funny":0,
+                "review_id":"tn5iR3am0BZjO9LaS8HFPA",
+                "stars":2,
+                "text":"I guess if you like their coffee this place is for you. This location is perfect for me since it is on the way to work, but I really don't like much of anything they serve. \nSpicy root beer? no, nothing special and it was off the menu the last time I went through the drive thru. Breafast food items are boring and tasteless. \nI tried a berry lemonade thing the last time and it was just expensive and nothing to rave about. Cup overloaded with ice :-(\nStarbucks has their following, but I don't really like anything from this place.\nGreat location off Flamingo and close to the Las Vegas strip, that is about it for me.",
+                "useful":1,
+                "user_id":"rn2DB_YX0BvToYe50RNr_Q"
+            },
+            {
+                "cool":0,
+                "date":"2016-07-07 21:35:55",
+                "funny":0,
+                "review_id":"PQIurPQ-db8hyW37UWqrKQ",
+                "stars":4,
+                "text":"I work very close to this location and cannot beat the convenience of a less then five minute drive to satisfy a 2:30 pm coffee craving. Staff is fast, friendly, and efficient. They even offer a $8 lunch special with sandwich, bottled water, chips, and fruit. Great value! The only downside to this particular location is that the prices are HIGHER than the average Starbucks. Overall the convenience factor I feel is worth it.",
+                "useful":1,
+                "user_id":"KjMt33U4VCs84CQAEn3XUg"
+            },
+            {
+                "cool":1,
+                "date":"2014-10-16 11:35:43",
+                "funny":3,
+                "review_id":"3dZSC-GkADdtmw5yvS2Pdg",
+                "stars":5,
+                "text":"By far the best Starbucks in Las Vegas! Its a drive through and a Coffee shop, Loved the inside and the retro design and the industrial stools, the staff are really friendly and they know how to serve well, the line is always busy but its goes down real quick! they have an endless menu of different coffees and cold drinks and cakes and pastries, The prices are much cheaper than the rip off Starbucks on the Strip! We drove from the Aria resort to this Starbucks every morning, we loved it that much! \n\nThe WIFI also works great! \n\nits great to just sit enjoy the coffee and people watch, you can even see the planes coming into land at Mccarran Airport! \n\nJust wish the Starbucks in the UK were like this one!",
+                "useful":1,
+                "user_id":"-3paZwdNXO4zRa55ZQtNkQ"
+            },
+            {
+                "cool":0,
+                "date":"2014-06-19 01:32:55",
+                "funny":0,
+                "review_id":"0raVsy14TE4yUEcaqSjLJw",
+                "stars":3,
+                "text":"Not sure what other reviewers mean by comfortable seating. Compared to older Starbucks, the seating in here stinks. There are plenty of army type metal chairs and stools, and only three armless, stiff upholstered chairs clustered around a teeny tiny table. Very ultra industrial, with a very, very high ceiling so noise echoes like crazy. Also, the new \"boulangerie\" pastries are pathetic. Everything is tiny and sad looking. But the good news is, for old timer Starbucks customers like me, I can still get a decent cappuccino.",
+                "useful":1,
+                "user_id":"xmmTvdEBX53B1Fo_B28MNw"
+            },
+            {
+                "cool":0,
+                "date":"2017-05-28 22:31:19",
+                "funny":0,
+                "review_id":"xekIpwckhfFLrPC1Y1z0kg",
+                "stars":1,
+                "text":"Came here late night around 10pm due to having a long drive coming. To be honest the person taking orders had trouble knowing the menu well which wasn't too big of a deal to me at first. But when my order of a caramel macchiato came out there was no caramel flavoring and was simply just plain iced coffee. After the drinks were handed over to us the straws were also forgotten.",
+                "useful":1,
+                "user_id":"StDXvY8qiGoobrdvNfbCmA"
+            },
+            {
+                "cool":0,
+                "date":"2015-01-08 20:32:18",
+                "funny":0,
+                "review_id":"C-7vd_KQDxeTratrd0U1Cw",
+                "stars":4,
+                "text":"Starbucks is Starbucks. Staff is friendly...drive-thru staff can be a bit mechanical...but I cannot blame them.",
+                "useful":0,
+                "user_id":"AolnyiEB_UMlQtD_dp5E9g"
+            },
+            {
+                "cool":0,
+                "date":"2016-05-09 20:16:11",
+                "funny":0,
+                "review_id":"c-rcTSVE_7dqEZ2NNqAn5A",
+                "stars":5,
+                "text":"Sharon by far is the most fantastic person there! She has excellent customer service! Lindsay is also a rock star, they are fast and never get my order wrong. I only wish the Starbucks by my house was this good!!!",
+                "useful":0,
+                "user_id":"I2anZNa50bUSBGSOeL93XQ"
+            },
+            {
+                "cool":0,
+                "date":"2015-02-07 20:23:57",
+                "funny":0,
+                "review_id":"HWtJZDUVmMSYU1aSlO9R1A",
+                "stars":5,
+                "text":"I absolutely love this Starbucks! It's the most beautiful one in Las Vegas. The customer service is always up to par and I have never had a failed drink here. This is my go to Starbucks for studying, meeting up with friends, or spending some time alone. Totally incredible people and interior! I will be back :)",
+                "useful":0,
+                "user_id":"c2MQ_LPuvtiiKFR_-OY9pg"
+            },
+            {
+                "cool":0,
+                "date":"2018-06-11 20:36:27",
+                "funny":0,
+                "review_id":"sQRiaG9PdBc8k6CFgHTYZA",
+                "stars":4,
+                "text":"Brandon is the only one there who understands EXTRA CARAMEL???? Simple... the only time i get it is when hes there.... theyre very good about having it ready snd I seldom wait... taking that into consideration, I gave 4. If I could get my caramel and ONLY 2 scoops of chips, it would be perfect!!!!",
+                "useful":0,
+                "user_id":"EA-UgJmd-hQ8RBn1odmDJg"
+            },
+            {
+                "cool":0,
+                "date":"2015-09-27 18:17:21",
+                "funny":0,
+                "review_id":"8939-SkSGEf3_ueUUB7W9w",
+                "stars":1,
+                "text":"We've been waiting for coffee like 20mins. The workers are slowly and new. Not like Starbucks",
+                "useful":0,
+                "user_id":"-exBZ_Oq2h24lghHh61JEA"
+            },
+            {
+                "cool":0,
+                "date":"2017-11-23 21:09:29",
+                "funny":0,
+                "review_id":"Sa9oiZ58mmzV6hHiizu4Yw",
+                "stars":1,
+                "text":"Damn!  Super expensive almost double prices. I asked the guy why it is so expensive he replied very rudely. 'Because we are close to strip'.",
+                "useful":0,
+                "user_id":"zETu83CtWcMBZ3awvBd-ww"
+            },
+            {
+                "cool":0,
+                "date":"2014-10-03 08:16:26",
+                "funny":1,
+                "review_id":"wjR2SPyFDgS-M6WXyDsbBw",
+                "stars":5,
+                "text":"Nice store, and the staff always does a GREAT job.  Excellent move on the relocation from the old store next to FedEx Kinkos.  \n\nOnly complain is I wish they had bathrooms that could be accessed by multiple people, as it seems like someone is ALWAYS in the bathroom at this place when you need to use one.",
+                "useful":1,
+                "user_id":"-8APNXHR8Zk3Pm43d1M4QQ"
+            },
+            {
+                "cool":0,
+                "date":"2016-10-03 19:17:42",
+                "funny":1,
+                "review_id":"rdjzXzG74jzKontsgALE3A",
+                "stars":5,
+                "text":"I LOVE this Starbucks! Michele was very kind and smiled the entire time she was talking to me at the register! I loved my drink and will be back very soon!!",
+                "useful":0,
+                "user_id":"KH3Org6LXUpI9pWCQ6kX4w"
+            },
+            {
+                "cool":1,
+                "date":"2017-12-21 00:02:59",
+                "funny":1,
+                "review_id":"GjVN1J_u8alU1xddQh86cw",
+                "stars":5,
+                "text":"Was a bit hesitant about this location given their recent reviews. Nonetheless, my Venti Pumpkin Spice Frappe and Venti Gingerbread Frappe was well made by Landon! Excellent service, lots of indoor and outdoor seating, and of course yummy drinks.",
+                "useful":1,
+                "user_id":"CpntrjFnW2YWZ0yIPTd2ZA"
+            },
+            {
+                "cool":0,
+                "date":"2016-07-08 18:01:38",
+                "funny":0,
+                "review_id":"wCB0or9hHCgMOxgwaG0ZIQ",
+                "stars":1,
+                "text":"I would really appreciate a nice staff. An older lady that works every morning in the drive thru window is really rude and a smart ass. They messed up my drinks a few times and when I call to complain in the nicest way ever, they are rude as hell. Service sucks 80% of the time.",
+                "useful":1,
+                "user_id":"whq8yA_0x7wYKS8breMoZw"
+            },
+            {
+                "cool":0,
+                "date":"2015-03-23 13:12:47",
+                "funny":0,
+                "review_id":"_QDqWYhysjzwXRCstoDLkg",
+                "stars":2,
+                "text":"This location is notorious for having way to many homeless people with all their baggage and belongings. This is the type of stuff that has been fished out of dumpsters and now creating a health hazard as well as a fire hazard by blocking walkway. I witnessed a homeless person with 4 bags and suitcase sleeping in the store and I asked the employee to wake her up and ask her to  leave. The employees response was, she's a paying customer too. I then stated the health issues she was causing and the employee did nothing to remove this person. Totally disgusting and I hope Mr. Schultz does something to address this issue.",
+                "useful":0,
+                "user_id":"C6GA6IHglhhDSEsYstQR0A"
+            },
+            {
+                "cool":0,
+                "date":"2017-03-07 21:19:52",
+                "funny":0,
+                "review_id":"M9-aQOITns-WwZyNL1xwrQ",
+                "stars":2,
+                "text":"I come here often for the convenience it allows me to be in the vicinity of LVBD. What I've noticed is that this place has become a Hobo hangout. I feel slightly awkward in leaving personal items behind when going to the restroom. The restrooms have been becoming increasingly dirty to the point that they put key-code locks on the bathrooms (I'm assuming to curtail their homeless-persons issue). You will find yourself competing for seats with the hobos. I'm sure they are trying to fix the issue or at least I hope they are. Otherwise, the service is great. The location is ideal and the building is relatively new.",
+                "useful":0,
+                "user_id":"JjarhVHb3O74q6Cle2_EuQ"
+            },
+            {
+                "cool":0,
+                "date":"2017-02-25 13:52:25",
+                "funny":0,
+                "review_id":"W9IlmDi4DdVF8TP-K3_Ztw",
+                "stars":4,
+                "text":"For all the bad reviews I had a good experience.  I was Driving thru and had to get a hotel in Vegas just to sleep before driving on.  Hotel was a dump so wanted to leave soon as I woke at 5am. No line at this Starbucks and the employees were super friendly.  Price for my drink was only 75 cents more than LA - not too awful.  Barista made my drink perfect!! And it was custom. \nNo 5th star only because the Manhattan Beach Starbucks at pier will always be best in world hah.",
+                "useful":0,
+                "user_id":"d7pgp3_CMGvrlzsQ0BFcdQ"
+            },
+            {
+                "cool":0,
+                "date":"2018-04-18 15:16:22",
+                "funny":0,
+                "review_id":"8yfktrGL8x_1IaDHj1at2Q",
+                "stars":4,
+                "text":"A pretty busy spot but a great neighborhood location to pick up some fresh coffee in the morning.",
+                "useful":0,
+                "user_id":"5BpOyawXDHN1_YKd4i9QbQ"
+            },
+            {
+                "cool":0,
+                "date":"2014-12-07 20:45:01",
+                "funny":0,
+                "review_id":"Nvys5NPyWIjal9RKoUA2Yg",
+                "stars":2,
+                "text":"They screwed up my drink twice and finally made it right the 3rd time. I'm talking major screwup, like a grande latte instead of the ice Venti Vanilla latte I ordered. Oh and it took 20 minutes from when I pulled into the drive through til actually leaving the window. I could see people getting upset in their cars. I hope it's not always like this.",
+                "useful":2,
+                "user_id":"f5AzyVdIDASkl8kAJSZq7Q"
+            },
+            {
+                "cool":0,
+                "date":"2016-08-17 20:40:47",
+                "funny":2,
+                "review_id":"tLnJvo3uK977VKyhEdI2OQ",
+                "stars":2,
+                "text":"Just stopped by this location for an iced beverage. Paid order with a gift card and had a balance owing of $1.50 towards the purchase. I pulled out my debit card and was asked to produce ID.  R u kidding me?  You're worried about a $1.50 charge from a local being fraudulent but you'll gladly remake a $6 drink if it's not right?  Demeaning and uncalled for.  No thanks I'll go back to the suburban locations for my coffee fix",
+                "useful":0,
+                "user_id":"7fg1fuiUxFeWXWhuVo_PpA"
+            },
+            {
+                "cool":0,
+                "date":"2017-04-23 14:24:18",
+                "funny":0,
+                "review_id":"WPE3yY21AV3BClMpgVZK_Q",
+                "stars":5,
+                "text":"We stopped in before heading out on our Saturday night and the staff was super friendly and our order was ready very quickly. No complaints!",
+                "useful":0,
+                "user_id":"dZjO7sHqtLG_QdSUImOyjQ"
+            },
+            {
+                "cool":0,
+                "date":"2016-08-31 20:55:28",
+                "funny":0,
+                "review_id":"_ewGiyLTAkjA5kWaJfLKhQ",
+                "stars":4,
+                "text":"I come here at least twice a week, either for myself personally or for my office. It is always a pleasant experience. The drive through service is always quick and efficient even during peak hours!",
+                "useful":0,
+                "user_id":"_49YvRKEHGE8KJ7fHDfiNA"
+            },
+            {
+                "cool":0,
+                "date":"2015-07-09 17:04:39",
+                "funny":0,
+                "review_id":"akN7wQzl20aFXCm_c2iMhw",
+                "stars":5,
+                "text":"Wow! Great experience! Went in for breakfast, iced tea, and iced coffee before daughters dance competition. Cashier was genuinely nice. Not over the top but just a genuine person. They called us up for our breakfast sandwich and she had labeled our order \"tiny dancer\". We were feeling so tired from the night before and this was such a great pick me up for the morning! Thank you Starbucks team for making our day and kicking us off with a small act of cuteness that had a big impact to our morning! Oh, and the drinks were great too. :)",
+                "useful":0,
+                "user_id":"3-LG78W00O6f6isG0ijClQ"
+            },
+            {
+                "cool":0,
+                "date":"2018-07-29 20:58:45",
+                "funny":0,
+                "review_id":"NzzvGsoH6DzS5-A8bBJgwQ",
+                "stars":1,
+                "text":"Worst cup of coffee ive ever gotten at any establishment. They also got our order wrong. My girlfriend did love her Strawberry whatever it was, but mine was just... no flavor, not what I ordered, and overall disappointing. I'm sure that maybe someone was new, or it was on off-day, or SOMETHING. Anyway, not worth what I payed for.",
+                "useful":0,
+                "user_id":"sfRZj4CH4dU4YT42pvNFJw"
+            },
+            {
+                "cool":0,
+                "date":"2018-07-31 16:42:53",
+                "funny":0,
+                "review_id":"NKeDpk7_alZUDEK29vqf4g",
+                "stars":3,
+                "text":"Love you guys but when you spend $5.35 plus tip for these delicious egg bits and they are undercooked with consistency of hot jello, kinda feel ripped off",
+                "useful":0,
+                "user_id":"F9FxxG9BSrIh8Ii_qjFvtA"
+            },
+            {
+                "cool":0,
+                "date":"2017-03-08 22:58:31",
+                "funny":0,
+                "review_id":"tGyg_v8_XyBNoqx7WPBBVA",
+                "stars":1,
+                "text":"Worst Starbucks in town. Having to work in the same plaza and having this as the only option is frustrating. Having worked in this area for years the turnover is ridiculous every week it's a different person taking your order. This wouldn't be an issue if they didn't get he orders wrong 50% of the time. When you ask to have the order corrected the staff looks at you like it's your fault. Not to mention that this location somehow gets to charge Strip prices while being blocks and blocks away from the strip.",
+                "useful":0,
+                "user_id":"yCnrXvviTl-_Gcf88YmNtg"
+            },
+            {
+                "cool":1,
+                "date":"2014-01-26 03:34:43",
+                "funny":1,
+                "review_id":"FoW86s21TpDgcwrGhUAONQ",
+                "stars":3,
+                "text":"This Starbucks is a very cute location, but I was surprised at how little seating is available compared to how big the building appears. I got a grande mocha Frap, which was as good as any mocha Frap I could get at other locations.",
+                "useful":1,
+                "user_id":"zI0cogkqx4WQArqzTHXd-Q"
+            },
+            {
+                "cool":0,
+                "date":"2016-05-13 20:40:40",
+                "funny":0,
+                "review_id":"yV661wxcRssGM8lVZl8YHQ",
+                "stars":4,
+                "text":"I work in the offices near this Starbucks. It's a convenient location and has a drive-through, which I love. They also now offer the Starbucks pick up where you can order your drink via their mobile app then go in and pick it up. I recommend doing this because the drive-thru here can get really crazy. Especially during peak hours. When the line is really long for the drive-thru I usually just go inside and order because the drink gets made a lot faster. When the place is busy they also run out of parking spaces so you have to park on the dirt to the left of the building.\nThe only reason why I don't give them 5 stars is because the prices at this location are ridiculous. They charge more because they are so close to the strip and they get a lot of tourists, but still, I shouldn't have to pay over $5 for a venti iced tea. At any other Starbucks location my tea is usually around $3.75. This location has raised their prices around two or three times in the past 2 years. I used to come here more often but now I just can't bring myself to spend $5 on a drink.",
+                "useful":1,
+                "user_id":"lHFkt91UFwQUywggO8yDHA"
+            },
+            {
+                "cool":1,
+                "date":"2014-03-07 18:44:26",
+                "funny":1,
+                "review_id":"7RgYMvkVai3GiCcCucAgHA",
+                "stars":5,
+                "text":"I always go through the drive thru and they are so efficient and always so warm and friendly early in the morning. Love the new building and little drive thru. They are sooo efficient and have the process down like clockwork.",
+                "useful":1,
+                "user_id":"LubOvS08WwKTWugQ2V9_1Q"
+            },
+            {
+                "cool":0,
+                "date":"2017-09-04 21:00:27",
+                "funny":0,
+                "review_id":"TvDfygDdh7xhCjgd6GQ2sA",
+                "stars":1,
+                "text":"never go to this starbucks there was a cockroach in my coffee this morning, it was very disgusting so i came back and they did not even give me an explanation",
+                "useful":0,
+                "user_id":"vx8yHeaKnfXF_3UzBgqRjA"
+            },
+            {
+                "cool":0,
+                "date":"2017-09-14 23:22:31",
+                "funny":0,
+                "review_id":"uceasA3kz88M1VMXOmIsvQ",
+                "stars":1,
+                "text":"Prices here are 22% higher ( for my 3 espresso shots ) then anywhere in town just because it's close to strip ( 0.9 miles to be exact ) It's not good enough reason to keep prices higher.",
+                "useful":0,
+                "user_id":"4_rFGheun09YKJ10_NxA9g"
+            },
+            {
+                "cool":0,
+                "date":"2014-03-07 18:13:15",
+                "funny":0,
+                "review_id":"megi76wLMX5Ve4h2ROHWWw",
+                "stars":5,
+                "text":"Great location. Modern free-standing location with great service, friendly people, comfy seating & good parking.",
+                "useful":1,
+                "user_id":"UY0s1RR0WZkpzTnmMnpBxg"
+            },
+            {
+                "cool":0,
+                "date":"2015-08-27 01:56:21",
+                "funny":0,
+                "review_id":"eLeDJQ57Dhrlp7b0Mujxag",
+                "stars":2,
+                "text":"The communication barrier is too great in the drive thru. Our order was all messed up and the communication was a joke.",
+                "useful":1,
+                "user_id":"WB5zT2HLKVdJw-XrCmUG0A"
+            },
+            {
+                "cool":0,
+                "date":"2016-02-08 03:51:59",
+                "funny":0,
+                "review_id":"lTe4WwDDfWr-iFQ9KWY7fg",
+                "stars":5,
+                "text":"I've been coming to Starbucks since I could remember. Point is, I love Starbucks, but I've never written a review or comment about any location or barista. \n\nThis location is close to my house by the university and it's my favorite so far. The baristas are so nice and the drinks are always perfect. The inside is also very nice compared to other Starbucks. \n\nI never knew you could order drinks in a real cup and I saw a barista named Chelsea making a flat white and she make a little design on top! It was so cute and I complimented her on it and she made me one! So very nice of her, made my day, and reminds me why I love Starbucks so much! Thank you!",
+                "useful":0,
+                "user_id":"AJlJ2shHZM0NxCLvW2BGzA"
+            },
+            {
+                "cool":0,
+                "date":"2017-03-11 14:51:27",
+                "funny":0,
+                "review_id":"IAtEoXF5PFCvpForAuZlQQ",
+                "stars":1,
+                "text":"Cashier doesnt even greet me or with a smile, she got my order wrong and seemed annoyed when i asked for a remake even though i asked nicely and its not even my fault!! This is the last time im going here! Caffee Bottega across the streets is better, i just thought this was convinient cause they have drive-thru but nevermind.",
+                "useful":0,
+                "user_id":"r7NCkJbvwc9QAp6udyBF-A"
+            },
+            {
+                "cool":2,
+                "date":"2014-05-03 19:08:15",
+                "funny":0,
+                "review_id":"XQIMU9M-oOM7a5Ma8HLIcw",
+                "stars":5,
+                "text":"This has got to be my fave Starbucks to-date. Love the interior design. It's so spacious, modern and trendy inside. Service is friendly and fast. The drive-thru is convenient! If you're in Vegas, def check this Starbucks out :)",
+                "useful":5,
+                "user_id":"9TWgmxmhL_y5zF2s9S2TQA"
+            },
+            {
+                "cool":0,
+                "date":"2015-09-18 15:41:37",
+                "funny":0,
+                "review_id":"NBLAa7J0r_c2DW7RM7gW3w",
+                "stars":5,
+                "text":"This is one of the best Starbucks in Vegas, definitely the best near the Strip. It's modern, efficient, spacious, and they have plenty of parking. Best of all, they have the order online option with the app so one can avoid the lines.",
+                "useful":0,
+                "user_id":"Y7yuNThJFQFJ1Jgx-T11WA"
+            },
+            {
+                "cool":2,
+                "date":"2015-10-04 08:26:33",
+                "funny":2,
+                "review_id":"WTwzQOYRLorPAM08aMtnsQ",
+                "stars":5,
+                "text":"This is the largest of the Starbucks in Las Vegas. And probably the best staff of any of the ones I've been in. I've been in some of them that have employees that appear to be just starting out. \nEven after they've been at it a year or two. But not this bunch; they're friendly, efficient, and\nforever smiling(alliteration is my OCD, I shall not want). I've encountered 20 different employees\nsince I started coming here(03/2015) and all of them know their drill, no matter where they're positioned. The crowd is varied, but the overwhelming demographic seems to be cab drivers.\nAll of them courteous, kind, and faithful to the law of the pack. This starbucks also employes\na feature I hadn't seen at any other SB, a printed label affixed to your beverage cup that gives \ncustomers first name, volume of drink, and description of drink(quad expresso, decaf, ice). They've all but eliminated the infrequent but nonetheless, annoying peccadillo of giving your \ndrink away to someone who doesn't speak inglesi. Perdoname, maestro, tiene mi  cafe. Dame\npor favor. Gracias ,Senor. Vaya bien. While you stumble through the best imitation you can muster, your drink is losing its maxissimo poder. Starbucks creativity to the rescue! They have also got a better line of edibles than the others, featuring my favorite a sandwich made with flatbread, which looks like a thick saltine cracker(1/2\")with a choice of vegetable and chicken,\nor full on veggie innards. Todo es groovy al esta lugar. 24/7, 430AM- Media Noche. Stop in.\nit will make your day.",
+                "useful":2,
+                "user_id":"PNiDVKKlaUmElNvQkUy6Qg"
+            },
+            {
+                "cool":7,
+                "date":"2014-03-10 05:12:55",
+                "funny":3,
+                "review_id":"HtYVhyY7jGxG054PX4trKw",
+                "stars":5,
+                "text":"I go to Starbucks every day.  This was my first time at this new location on East Flamingo in the Howard Hughes Center.\n\nThe shop is roomy, it has lots of product (juices, pastries, and sandwiches--typical Starbucks stuff.  The wifi is free and it's fast--faster since Starbucks converted from AT&T to Google for their wifi.  There are two areas to sit outside.  There are some tables along the front and there's a patio on the east side.  Since the building is quite tall, it gives you shade in the afternoon.\n\nThere are plenty of chairs and one long table with stools where you can work with a laptop or just use your smartphone.  It's far enough away from UNLV that students won't walk here to hang, study, and otherwise be their normal pains in the butt as they are across Maryland Parkway from that Bucky.  This will just be a place where the adults come to use Bucky's wifi so they can conduct their businesses from their \"office.\"\n\nThe staff was on the ball today and it was a good stop.  I'll be back again now that I know the store is open.",
+                "useful":4,
+                "user_id":"PKEzKWv_FktMm2mGPjwd0Q"
+            },
+            {
+                "cool":0,
+                "date":"2016-06-29 15:18:13",
+                "funny":0,
+                "review_id":"t8bnfzXZcXU7JkZJDh6Fqw",
+                "stars":5,
+                "text":"I had a most pleasant experience at this 'bucks location.  The service was excellent. Props to Albie, my cashier, for being fun and super friendly. I loved the decor. Made me want to hang out here more often.",
+                "useful":0,
+                "user_id":"M88k2har3onQiS2H86DKPg"
+            },
+            {
+                "cool":0,
+                "date":"2015-08-18 12:15:30",
+                "funny":0,
+                "review_id":"yYK92IWrXb2oRvMhX5K8bQ",
+                "stars":3,
+                "text":"I'm a Gold member 10 times over.  This location was designed very poorly.  It was exciting seeing this new location being built as this is a very busy store.  Even though it's the most convenient to my work, I only go to this location when I have no time to stop at another beforehand.  With the time and planning involved, this store should have been the flagship to them all.  The inside feels claustrophobic.  There's nothing comfortable about it.  Someone is always standing in front of you.  Parking is a joke.  Staff is off and on mainly cause this store is insanely crowded.",
+                "useful":0,
+                "user_id":"-HfAVM2M8H4XtKLdQRgHlA"
+            },
+            {
+                "cool":7,
+                "date":"2014-01-28 14:51:25",
+                "funny":5,
+                "review_id":"ZFx3C687wc8E8MuBJR5LPA",
+                "stars":4,
+                "text":"Only 4 weeks old and a brand new building including a drive through. This is one of the largest Starbucks I've visited. What a difference compared to the original location in Seattle which opened in 1971\n\nThe driveways from Howard Hughes weren't paved yet it's so new. The service was solid and selection of coffee and brew paraphernalia was impressive. \n\nThis will be a regular stop when I'm in town!",
+                "useful":10,
+                "user_id":"o4tYl3Hz0oDfpNn4k02DCw"
+            },
+            {
+                "cool":0,
+                "date":"2016-05-02 20:08:03",
+                "funny":0,
+                "review_id":"0QXn_rntt9QE1FVBNBr2cA",
+                "stars":4,
+                "text":"Der Starbucks ist etwas gr\u00f6\u00dfer mit vielen Sitzgelegenheiten. Das Ambiente ist mal anders, als in den \u00fcblichen Starbucksl\u00e4den.\nDie Bedienung ist schnell und sehr freundlich.",
+                "useful":0,
+                "user_id":"8XDH2lsPhv0wlLeRoWpTuA"
+            },
+            {
+                "cool":0,
+                "date":"2015-03-26 17:29:06",
+                "funny":1,
+                "review_id":"_qDNzSwnBPaBbbO5JIgnmg",
+                "stars":1,
+                "text":"What kind of a Starbucks does not put stoppers into their coffee??!! As this lady (who gave me whip cream when I said no whip cream) gave my husband his BLACK HOT COFFEE it spilled over his white Armani shirt. They're lucky we were able to get it out or I would've demanded they pay for it. Should not have older people who can't hear working the drive through or anywhere in the high pressure service jobs. The little details matter and this one could've been costly.",
+                "useful":0,
+                "user_id":"yvf1-d6OJsD1BT_K3QoKAA"
+            },
+            {
+                "cool":2,
+                "date":"2013-12-24 03:49:21",
+                "funny":0,
+                "review_id":"vIUUrv-o_Lf80vTbpwX42Q",
+                "stars":5,
+                "text":"This one replaced the location on Howard Hughes (inside FedEx). It is very bright from the floor to ceiling windows. The lobby is spacious and there are plenty of tables. This location has a drive thru and features the new Clover coffee brew machine. The Clover is a specialty machine that brews Starbucks reserve and exotic coffees by the cup. The price of the Clover brewed coffee is a little higher but the coffee is of a higher quality.  Although I'll miss the old location on Howard Hughes from YEARS of being a customer, this one is much nicer.",
+                "useful":3,
+                "user_id":"3Kn4WUjRW4mktpYa0El3IQ"
+            },
+            {
+                "cool":0,
+                "date":"2016-03-04 20:37:31",
+                "funny":0,
+                "review_id":"KMjwy10AuuduvmaVzt3uGA",
+                "stars":2,
+                "text":"The employees at this location are great. The district manager should be chastised however. She raised the prices to match \"Strip pricing\". This Starbucks is often filled with taxi and limo drivers. I am a limo driver. Way to stick it to the working people who are the core of your business. I hope your numbers look good on paper because your store reputation is bound to suffer. I'm not coming back.",
+                "useful":1,
+                "user_id":"-57uOzAWlx__p6QlX1pojA"
+            },
+            {
+                "cool":2,
+                "date":"2014-03-09 22:10:24",
+                "funny":0,
+                "review_id":"6pe3P_yyijiZSTVDCCtXvA",
+                "stars":5,
+                "text":"This is my favorite Starbucks.   It is a standalone building and it is quite modern.  Yes, the drive thru can be a bit hectic but that is because of its prime location, right off Flamingo.  That is not only great for the Starbucks believers but for the business itself.   Sharon typically works during the AM hours and it is amazing how one person along with a great cup of 'whatever you order' can enhance your day.  She is always pleasant and so friendly.",
+                "useful":0,
+                "user_id":"xCqqBsp0w0sz6bJWqsCxAg"
+            },
+            {
+                "cool":6,
+                "date":"2015-01-29 01:49:02",
+                "funny":5,
+                "review_id":"OdhtsudtkAPAH3LvEhCkqA",
+                "stars":5,
+                "text":"This update is long overdue. I've been visiting this location when I visit Las Vegas  for business or pleasure which is at least once a month. Parking is usually not bad but during peak hours it can fill up and you may have to park west in an unpaved lot.\n\nI usually arrive in the am and the staff here is what make this location so unique and special. Daily customers which I've met two - get their coffee brought to them in regular coffee cups! The staff knows their clients so well they are preparing their orders before they reach the counter. This location also offers the Starbucks Reserve products and has a clover machine for preparation of one cup of reserve at a time.\n\nThis Starbucks is one of my favorite locations and  Thank you to the entire staff for the outstanding service & quality!",
+                "useful":7,
+                "user_id":"o4tYl3Hz0oDfpNn4k02DCw"
+            },
+            {
+                "cool":0,
+                "date":"2014-10-24 15:53:36",
+                "funny":0,
+                "review_id":"P15sgKC6y7e9KJja1B8qQg",
+                "stars":5,
+                "text":"Great coffee! Wakes me up each and every day. Cannot wait to get my mojo there in the morning. Some days it seems stronger than others but I love it.",
+                "useful":0,
+                "user_id":"_A5vHoFRXBcmBertTQgoRg"
+            },
+            {
+                "cool":0,
+                "date":"2016-11-06 17:08:37",
+                "funny":0,
+                "review_id":"qsVPDbPEbn6Jix5svEVTwA",
+                "stars":5,
+                "text":"A great store. Shout out to Lauren for being an excellent manager, although a more appropriate term for her would be \"leader\". Brandon, a shift supervisor who works like there's no tomorrow, and is one of the friendliest people working at this location, and to John Joshua, affectionately called JJ. I've been there for a few months and saw excellent improvement in his skills as a barista, no change with customer service (he already had it!). Congrats on partner of the quarter (as of fall 2016)! Huge thank you to this",
+                "useful":0,
+                "user_id":"D6J-UXe7xrPPMIT2ipw8Wg"
+            },
+            {
+                "cool":0,
+                "date":"2015-07-13 17:24:13",
+                "funny":0,
+                "review_id":"Q_GKyfPVdgPnVNdnECL93w",
+                "stars":5,
+                "text":"Love this Starbucks. Always consistent and friendly service. Vibrant atmosphere. Sometimes long lines but they have the staff to move em along quickly. Drinks from Baristas can be quite slow.",
+                "useful":0,
+                "user_id":"6wWhkHhLMTdnYMPlXRcN9g"
+            },
+            {
+                "cool":5,
+                "date":"2018-02-10 00:17:07",
+                "funny":3,
+                "review_id":"qier4I1t0iKbQXZpAb8bnQ",
+                "stars":1,
+                "text":"The worst customer service ever !!! Worst Starbucks location all over the nation. The cashier people won't even smile at you ant treat you like they are making you a favor, I let the manager know of how rude they were just to find out that she was even more rude and stupid. \n\nYou incompetent manager girl with purple hair for sure do not represent the company and sooner or later you will find yourself jobless because someone as unprofessional as you are shouldn't be working at this location.\n\nI really hope for someone to read this review and do something about it. \n\nMeanwhile I do not recommend this location to anyone and recommend you to avoid it. On top of it the location looks nasty so if you don't want to catch a virus don't visit this location there's so many other ones with great customer service!!!",
+                "useful":9,
+                "user_id":"5rXm9JMg9kNYpPdqWbxZpg"
+            },
+            {
+                "cool":2,
+                "date":"2015-08-05 07:29:33",
+                "funny":2,
+                "review_id":"uF8zjM2tf5FYw_WoYty4wQ",
+                "stars":5,
+                "text":"Can you ever give a Starbucks location less than 5 stars? Though there is just about one Starbucks for every hotel on the LV Strip, this is one of my favorite stations because it is conveniently located near Tuscany (cheap steak and eggs) and the 76 gas station (with super cheap prices too!)\n\nWith the new mobile order it is super easy and convenient for me to create my order while I'm pumping gas or driving down to the Starbucks. If you're not tech-savvy then there's also a drive thru as well. Don't let this store fool you though--it is almost always packed!",
+                "useful":2,
+                "user_id":"HQnfONrTQKBdHPV7iebtxQ"
+            },
+            {
+                "cool":0,
+                "date":"2016-02-19 19:06:45",
+                "funny":0,
+                "review_id":"fiJ_ChoNGPFF2jU7TTn-Dw",
+                "stars":2,
+                "text":"I am a local and work on Howard Hughes Parkway.\nI used to love going to this location on my lunch.  Although if it's crowded, it can feel like you are crammed in there, especially during the lunch rush.\nHowever, I went about 2 weeks ago since the weather was nice and I decided to go for a stroll.  I get my Venti Iced Coffee w vanilla and cream.  Typically at any other location besides a the casinos...$3.19.  Here....almost $4.  WTH?!?!?!?!\nI get you are close to the strip however more locals than non locals visit this establishment.  Sooo wrong and you don't have to worry about me returning to this location unless I have a free drink smh.",
+                "useful":2,
+                "user_id":"xPSXDnjJ_oXoVSlkvmDItA"
+            },
+            {
+                "cool":1,
+                "date":"2017-10-23 03:43:56",
+                "funny":0,
+                "review_id":"trjY90hhtdHZbmkicTBEuQ",
+                "stars":1,
+                "text":"I love Starbucks and have gone to numerous locations all over the US, esp in NV and CA but I must agree with other yelpers that this locations' customer service and food is mediocre \n\nMy drink order was not as I requested and it came out watery. I ordered a decaf white chocolate mocha frapp with an extra pump of white chocolate mocha. It lacked flavor and I couldn't taste the white mocha. Perhaps they were skimping in ingredients to save money but why? The cost of the drink covers the cost of ingredients!? \n\nUnfortunately my lemon loaf was dry and I was unable to finish it. I thought Starbucks had fresh pastries...that wasn't fresh. \n\nThe Starbucks on the strip cost a lot more but I've never had these problems. Please please please address these issues Starbucks. Thanks.",
+                "useful":1,
+                "user_id":"Rpw8mQPKJb8esVjosT4Sog"
+            },
+            {
+                "cool":0,
+                "date":"2015-06-07 00:50:20",
+                "funny":0,
+                "review_id":"rwYGaSTNb5MietXJFJtd5A",
+                "stars":4,
+                "text":"I recently started a new job in this area and like to stop at this location for my coffee fix. With all the other business men and women and visitors from nearby, it can get pretty busy and crowded. The longest I ever had to wait for my order was 13 minutes (it was a pour over, so it is excusable). It all depends on the time of day, i.e. business crowds who are starting work or on lunch break. The staff is friendly and welcoming. I enjoy coming here as it is clean and inviting.",
+                "useful":0,
+                "user_id":"ka8Pk_MXUXNmPy9kPaO43w"
+            },
+            {
+                "cool":7,
+                "date":"2015-03-26 18:19:28",
+                "funny":8,
+                "review_id":"UTjTqROgkHsAyMn7R_H3UA",
+                "stars":4,
+                "text":"I know, I know. A review about Starbucks with over a gazillion locations, but I felt the need to call-out one of the good ones. Because we all know Starbuck shops are like Vampires, some sparkle & shine and others just suck the life out of you. \n\nI almost never write reviews about large chains, but this Starbucks has to be the best looking location in Vegas. High ceilings, plenty of room to work, and two, count em', two patios. One in the front and one on the side, both nonsmoking! \n\nThis location also boasts a very fast drive-thru and a hard working crew. When I got here the line was long, which almost caused me to leave, but I noticed how fast it was moving, so I decided to give it a chance. Two minutes later, I'm placing my order and setting up my laptop, and what felt like one minute after that, my drink order is being called out to the caffeine addicted crowd.\n\nMy one and only complaint is, stronger Wi-Fi. As the place began to fill up, the signal seemed to get slower and did cause a little hiccup in my work time.\n\n#FirstWorldProblems.",
+                "useful":6,
+                "user_id":"i_DR3vdE73nVm2GlMbGpGA"
+            },
+            {
+                "cool":0,
+                "date":"2015-10-05 19:57:48",
+                "funny":0,
+                "review_id":"HpNJSyI3QVlpydDd1dSWLQ",
+                "stars":5,
+                "text":"In a rainy day like today I feel like I'm in Seattle not Vegas. Location close to the strip without the strip traffic, this brand new building puts out a cool suburban vibe. Tried a skinny Carmel macchiato for the first time and I'm sold! Found my new fave drink for the winter without a whole lotta calories. Meeting my husband here again and again...",
+                "useful":0,
+                "user_id":"5vNHnhnUWdfGiSnK_QsnwA"
+            },
+            {
+                "cool":0,
+                "date":"2016-01-12 22:22:05",
+                "funny":0,
+                "review_id":"iQEGrva9jvemh1LMsQxqgA",
+                "stars":5,
+                "text":"I'm a regular at this Starbucks and I always enjoy my green tea latte at this location. When I come here I always look for Albie and Brandon they are amazing!! They make me feel welcome, the drinks are fantastic. They always offer phenomenal  customer service!!! Keep up the great work guys! Ill be seeing you soon!",
+                "useful":1,
+                "user_id":"3bWF0eTqIM5eXI_0SlCJNg"
+            },
+            {
+                "cool":0,
+                "date":"2017-07-06 20:07:53",
+                "funny":2,
+                "review_id":"gndkkIVXg9ulO-y-lXFPCA",
+                "stars":1,
+                "text":"To be frank, I love Starbucks.. like who doesn't? Every Starbucks I've been to has been an excellent experience. With great customer service and awesome beverages to top off. But this particular location, I guess they'll have to work on some things. Maybe they missed out on \"customer service\".\n\nI was in a drive-thru, ordering a simple drink. An Iced-Coffee with Soy milk and Vanilla Pumps with EZ ice. A staple. Nothing too complicated there. But it came out wrong and when I asked for it to be remade.. I get an attitude? Huh? Did I miss out on the motto that Starbucks stands for? If the drink isn't up to part, they will offer replacements to meet customer satisfaction? \n\nClearly there was miscommunication but it could've been avoided if their staff were to listen and probably repeat the order and not assume they noted it down? I'm not sure if this particular staff is having a bad day or something but cmon, we (customers) don't have time for your sass. Get your act right because I ended up having a diluted/watered down coffee.. thanks.. \n\nI believe his name tag was Josh?",
+                "useful":1,
+                "user_id":"cMva3C2QbmmvW1flAwsNVQ"
+            },
+            {
+                "cool":0,
+                "date":"2014-02-04 00:57:26",
+                "funny":0,
+                "review_id":"GHXsRNchiPL43J7YciP1yg",
+                "stars":4,
+                "text":"Busy place every time I've gone. So many offerings and combinations , it must drive the staff bonkers. They are about as friendly and efficient as they can be though.\nI have to order a \"clover made\" coffee now that SBUX only offers blends, which I don't like at all. Makes me spend more which I don't like either.\nI do like the clover coffees, but I don't like the thought that in order for ME to get what I like, I cannot simply order the regularly brewed coffee ( since it's always blended with coffees I dislike). \nI've been to several SBUX in LV, and this IMHO, had the most outside seats, friendliest staff, and best choices. \nOf all the chain stores in the world ,\nSBUX is the only one I consistently\nseek out. However, their switch to \"blended coffees\"  as well as the consistently weak WiFi (I usually switch to my carrier's LTE) is causing me to re-evaluate my loyalty to SBUX.",
+                "useful":1,
+                "user_id":"dA7smMo-z6VNmgNzyd640Q"
+            },
+            {
+                "cool":3,
+                "date":"2015-12-31 23:47:45",
+                "funny":2,
+                "review_id":"6gdt14CZY0wjLKkXtyE_-Q",
+                "stars":3,
+                "text":"Today was my first time at this Starbucks and eh I have experienced better service as well as the quality of drinks. I pulled through the drive thru with no cars ahead wasn't greeted right away. Once I placed my order I had to repeat it twice and then when I got to the window I sat for another 3 minutes until I was acknowledged. Once I was got my drink it was incorrect.. So I'm not sure how hard an iced quad espresso with cream is but the barista forgot my cream and the lady working the window fixed it however when handing it to me had the coffee dripping all over the sides just a mess ugh I guess I'm spoiled or whatever you want to call it but I wasn't impressed to say the least.. It's a nice location though...",
+                "useful":2,
+                "user_id":"qPVtjjp8sNQ32p9860SR9Q"
+            },
+            {
+                "cool":0,
+                "date":"2014-08-07 02:31:32",
+                "funny":0,
+                "review_id":"cH7TvDKilHDdK4kmDWNFwg",
+                "stars":3,
+                "text":"I am 100% a Starbucks fan. Almost never does a day go by without me having some product from Starbucks. Today I had a Trenta Iced Coffee and a Pellegrino. The service was fast and pleasant. My drink was prepared perfectly. This location is different from just about every location I've ever been to. It is deceptively roomy with several types of seating areas. My ONE complaint - and it's a big one - is that most of the outside seating area is unusable as it smells of urine. Undoubtedly the small fenced in cement seating area (charming design) has become the sleeping place for homeless people. PLEASE steam clean this area and do something about it. It so weakens this location which would otherwise be one of the nicest I've seen.",
+                "useful":2,
+                "user_id":"9qeb4Z0BfIJ9Uz62TR2foQ"
+            },
+            {
+                "cool":0,
+                "date":"2018-02-07 19:19:06",
+                "funny":0,
+                "review_id":"0SJ8AZmHuzr6ABJu9j5WOg",
+                "stars":5,
+                "text":"I have been going to this Starbucks location for the last 4, almost 5 years and I must say their morning crew is absolutely amazing! They are very friendly, welcoming, helpful and make my daily Starbucks run very delightful! My orders are always correct and due to my Starbucks \"addiction\" a lot of the crew knows it by heart now. What can I say I like my daily Starbucks!",
+                "useful":0,
+                "user_id":"1AmTCSKt05ejbTtrPiqXjw"
+            },
+            {
+                "cool":1,
+                "date":"2016-05-15 20:14:46",
+                "funny":1,
+                "review_id":"nZs9D_Pijn6a7gbvdO-A4g",
+                "stars":1,
+                "text":"Took 20 minutes in the drive-through just to receive my food they didn't even fill my latte all the way the guy also did not include any napkins with my egg and sausage sandwiches. I go to Starbucks regularly and this is by far the worst Starbucks at ever been to.The egg and sausage sandwich tastes like it is been sitting out for four hours and I just threw it in the microwave.",
+                "useful":1,
+                "user_id":"RmQSnsotL9fGai71YfVM_Q"
+            },
+            {
+                "cool":1,
+                "date":"2014-06-23 21:44:32",
+                "funny":1,
+                "review_id":"dbygVbbY0rEbgVplHQoMug",
+                "stars":3,
+                "text":"I think this location is pretty uncomfortable inside. Lots of army style metal chairs, and only 3 armless upholstered chairs clustered around a small table. Also, the new \"boulangerie\" pastries are tiny and unappetizing in appearance. The good news for old timer Starbucks customers like myself, is that I can still get a good cappuccino.",
+                "useful":3,
+                "user_id":"xmmTvdEBX53B1Fo_B28MNw"
+            },
+            {
+                "cool":6,
+                "date":"2016-03-23 22:59:48",
+                "funny":5,
+                "review_id":"2qaaPt67ucAZNW_RuLeAgQ",
+                "stars":4,
+                "text":"There's a lot of Starbucks along the Las Vegas strip, but most of them charge two bucks or more then the corporate Starbucks. Some of the locations don't even accept the Starbucks card AND they add the upcharge to their prices.  \n\nStarbucks is already expensive, so it was worth driving 2 minutes away from the Strip to enjoy my London Fog Latte.  Located in the same parking lot as Fogo de Chao and McCormick and Schmidt's, this Starbucks was built about a year ago. It's not a particularly big Starbucks, but there is a communal table and scattered seating and tables inside and outside.  Power outlets are on the floor.\n\nThis place has a drive-through, and they also accept mobile orders. They have all the souvenir mugs and cups too. While the service was good, I thought some of the baristas could be slightly friendlier.  \n\nFor the Californians, remember Nevada charges sales tax for food and beverages... including the refills which are $.055",
+                "useful":10,
+                "user_id":"cKJ0r01eF7E-tYp2FQOyRA"
+            },
+            {
+                "cool":0,
+                "date":"2016-01-04 00:08:15",
+                "funny":0,
+                "review_id":"QOyWG1RX5R-YfCEj00aWVA",
+                "stars":2,
+                "text":"Service was fine, staff tried to be helpful, but they didn't have what I wanted.\n\nAlso, I don't like the layout. It feels very cramped with people jammed together into a long, narrow space. The tables and chairs weren't that comfortable. It doesn't have the 'feel' of a place I would want to linger.",
+                "useful":0,
+                "user_id":"W3Q7UeLJ9FLVoM1sT4W-wQ"
+            },
+            {
+                "cool":0,
+                "date":"2017-02-28 06:22:25",
+                "funny":0,
+                "review_id":"4ycicSFXh-58_ayMAdQc1g",
+                "stars":5,
+                "text":"Service was good! Atmosphere was pleasant, free wifi and lots of seating! We sat in there for over an hour chatting away, it's pretty small, so Eve's dropping and people watching is all but forced upon you whether you like it or not! \nAlso the bathrooms were clean which is always a nice perk.",
+                "useful":2,
+                "user_id":"I_6or9vQiL9qoSz5PuW4fg"
+            },
+            {
+                "cool":2,
+                "date":"2018-06-11 20:56:48",
+                "funny":0,
+                "review_id":"As7rDxltQu7vcAxNjmlxDA",
+                "stars":5,
+                "text":"Starbucks is definitely a place where you know what you are going to get and its process is in place to ensure that you receive exactly what you order and get great customer service. They also have processes in place if you don't get 5 star service. I have been to this location several times in the evenings and my experience has been great.",
+                "useful":4,
+                "user_id":"Q7IoE5m2heQKThuVq3SYFA"
+            },
+            {
+                "cool":0,
+                "date":"2016-03-16 18:04:11",
+                "funny":0,
+                "review_id":"DlV3E6AzBgG8l9X9St5uMg",
+                "stars":5,
+                "text":"I have a few of my meetings here at this Starbucks. I like the layout, it's comforting to be around the buzz of other business people having their meetings. Today I had the pleasure of having Josh make my coffee... I forgot to tell him to steam my soy milk for my coffee. When I went back and said \"sorry Josh, I need my coffee to be hotter.. can you steam my soy milk as well?\"\nJosh said \"no problem\" made me a new one! Thanks Josh!",
+                "useful":0,
+                "user_id":"7XtjpwvWhYd08c6qF-YyAA"
+            },
+            {
+                "cool":23,
+                "date":"2015-04-14 01:43:55",
+                "funny":17,
+                "review_id":"oeVW4nj9K1VFvPgbziWZgw",
+                "stars":5,
+                "text":"Yes I'm writing a review on the heavy hitter chain that is Starbucks - don't judge. I felt compelled to give a short but sweet shout out to this location because the baristas here are whipping up my favorite drinks exactly the way I like them - strong and not watered down! \n\nI hate being stuck on the strip with the need for caffeine because we don't enjoy spending premium prices for Starbucks. This convenient location \"near\" the strip is our favorite spot. So far, the baristas here can really make our drinks well so keep this spot in mind the next time you are headed to the strip.\n\nThe interior situation is roomier than the previous review made it out to be. There is a long bar in the middle with lots of counter space to post up with your laptop with tall stools to sit in, a few tables and also some comfy seats scattered along the window of the shop. There is also a generous amount of seating outside in the front and side!\n\nBONUS: No shortage of outlet sockets to plug in your electronics. The clean bathrooms are tucked away near an entrance for easy ins-and-outs without making that awkward walk of shame through the whole darn place.",
+                "useful":21,
+                "user_id":"u_wqt9RshdZsoj8ikLqoEQ"
+            },
+            {
+                "cool":0,
+                "date":"2018-01-31 18:50:03",
+                "funny":0,
+                "review_id":"H7PlMa0gM4GZfcYi7kQPgg",
+                "stars":2,
+                "text":"Slow service every time I've visited. Not the staff's fault - I don't think they can keep up with the drive-through and the folks inside.",
+                "useful":0,
+                "user_id":"DD5irerFNGQeu8eM0W3Ylg"
+            },
+            {
+                "cool":0,
+                "date":"2018-10-28 22:17:28",
+                "funny":0,
+                "review_id":"DM0SsynndOW5t67PNmYDuA",
+                "stars":1,
+                "text":"Is this even a Reserve bar?! The guy behind the counter had no idea what I was talking about.  I thought all Reserve Bars had the ice cream drinks- but the barista looked insanely puzzled. We went out of our way to hit up a Reserve, but be warned- they are not all the same. This place only seemed to advertise the pour-over coffees (although I didn't see the fancy chemistry sets that are used to make it). I think this a fake Reserve.",
+                "useful":0,
+                "user_id":"PHrJYYJOkQa3KOyLiLCAww"
+            },
+            {
+                "cool":2,
+                "date":"2017-11-29 23:53:57",
+                "funny":1,
+                "review_id":"kuweeYUoHOVoq727kaMJxw",
+                "stars":3,
+                "text":"I will admit that the service at this location is very good and quick but for some reason our drinks never come out right. I ordered my pumpkin spice frap and it came out really watery and milky. \n\nIt was strange. I've never had issues with any drinks from Starbucks so I just thought it must have been a one-time mistake but after the second remake, it still looked the same. I gave up and tossed my drink.",
+                "useful":2,
+                "user_id":"V4ufnFKJNV8kEwFMx_5qEw"
+            },
+            {
+                "cool":0,
+                "date":"2017-03-03 09:57:40",
+                "funny":0,
+                "review_id":"GY3FXjD1NxNCllKdkri0og",
+                "stars":5,
+                "text":"There Customer service was grate.\nThe coffe was grate.\nI will come again for shore.\nFood was fresh..\nBest plays to ...............",
+                "useful":0,
+                "user_id":"hGUUJtJjh1TkmF3lRorBQA"
+            },
+            {
+                "cool":2,
+                "date":"2017-12-12 01:50:36",
+                "funny":1,
+                "review_id":"k9Ah_ageJzOjBXsD_-5MNw",
+                "stars":3,
+                "text":"I was in the area and craving for ice caffe mocha at 7:30am. It's located in the Howard Hughes area and parking was easy to find. It is very modern Starbucks with glass windows everywhere. The menu prices are .50 cents higher than Starbucks in Target. Normally Grande ice caffe mocha is $4.45 not here $5.36. This is why I gave 3 stars. I didn't wait too long for my drink to be done.",
+                "useful":3,
+                "user_id":"EipwmwToR90iinI5aCQoxQ"
+            },
+            {
+                "cool":0,
+                "date":"2018-10-07 23:04:07",
+                "funny":0,
+                "review_id":"ofjnPBmePoOzYN-WQNwI7A",
+                "stars":4,
+                "text":"Clean,\nFast,\nTypical misspelling of names,\nNice ambiance. \n\nRight close to the strip.",
+                "useful":0,
+                "user_id":"s8O7xJHKZ1pUWf0n_jeTyA"
+            },
+            {
+                "cool":2,
+                "date":"2016-02-23 00:06:54",
+                "funny":1,
+                "review_id":"vlH9rlmk9yk2VbxZmh_qxQ",
+                "stars":1,
+                "text":"This Starbucks only gets ONE star because now they are somehow considering themselves the  strip with those higher strip prices (as if their profit margin is small).  $3.19 for a tall americano! Really? What a crock of you know what! Used to come here quite often as did  others but NOT  anymore.  C' YA!",
+                "useful":3,
+                "user_id":"1_oU3pAMIRhMlLO8X36x8w"
+            },
+            {
+                "cool":1,
+                "date":"2014-08-10 00:08:13",
+                "funny":1,
+                "review_id":"3NCNqNlKnfkih9mwR4LMpg",
+                "stars":5,
+                "text":"This particular facility gets a five-star yelp review, because in spite of the non-mechanically separated chicken bone from the chicken BLT salad sandwich that I had to return, Joey and his friends were able to help me have a nice pleasant experience.\n\nGreat staff, clean facility, go to location, available parking... all-important but I really want to stress the people making it a satisfying experience.",
+                "useful":1,
+                "user_id":"lEEYctFjdxJ8eOq_F7OK0Q"
+            },
+            {
+                "cool":1,
+                "date":"2015-07-27 01:17:15",
+                "funny":1,
+                "review_id":"UESxhoxzzhaOMmxy8Ko80w",
+                "stars":2,
+                "text":"This Starbucks does not put your name on your drinks/food items. Does that not happen on the west coast? Is that an east coast-only thing? I was visiting Vegas and this was the closest Starbucks to my hotel. Went there every morning for 5 days and every single time my coffee was placed on the counter, some other guest would open up my drink or food bag checking to see if it was their item. Gross! This can be easily prevented by simply putting my name on the cup/food bag.",
+                "useful":2,
+                "user_id":"7kap-X1D2Zp3NkhtLv5xXg"
+            },
+            {
+                "cool":2,
+                "date":"2018-10-21 17:34:04",
+                "funny":2,
+                "review_id":"n-NtVz02nchvJGAphjjn7A",
+                "stars":3,
+                "text":"It's fine. It's a Starbucks. Mostly all the same. Right? As Starbucks continues it's world domination of the coffee market I think I am starting to see more inconsistencies in their stores than I used to and I have decided to start reviewing them. \n\nI travel for work and I generally try to go to a \"non-Starbucks\" whenever I can but sometimes you need their market penetration. You want a coffee, and there are 4 Starbucks within a block of your hotel. You know?\n\nIt's Vegas. It's just off the strip. I like that it is a stand alone Starbucks and not in a casino or airport. It's pretty big. Plenty of bar top and tables to sit and get some work done.  The store does look to be fairly new.  Wi-Fi of course. Music was playing of course. All the typical Starbucks trappings. \n\nFor those interested it also has a drive thru. \n\nIt feels dirty. Like a lot of Starbucks lately it feels like the place is not well taken care of.  Tables and floor need attention. It's a Sunday, it's mid morning, so I know the place has been hit but come on! Let's grab a rag and do a wipe down. \n\nParking lot is a mess. Judging by how run over the trash is, it's been a few days since anyone has put any effort in out there. \n\nCoffee was fine. I had a blond roast drop and as nearly always is the case, their coffee is not 100% consistent across all stores. Let's just start taking care of the facility a little bit. \n\nCream bar was messy and had only one thermos of I'm not sure what. Not labeled but I took a shot. It was something dairy enough for me. I was looking for half and half so I'm ok. Maybe you can ask if you want something else. \n\nThe pastry case and food shelves looked a little sparse too. Not sure if they were just wiped out or what but it was just messy and empty.  \n\nI feel like Starbucks is just like any other fast food place. The food is consistent. The facility gets hit hard. \n\nThe people were great. Guy that helped me at the register was very nice.",
+                "useful":2,
+                "user_id":"LdLztTGZPuNmoSRmvxQLyQ"
+            },
+            {
+                "cool":0,
+                "date":"2018-10-14 01:57:21",
+                "funny":0,
+                "review_id":"h7Z7xIqb8KIovspaw3NNaw",
+                "stars":5,
+                "text":"Perfect place perfect employees if you need a bit rest or a quiet work setting here works.\n\nJust because of my credit card doesn't work while ordering they prepare what I exactly need and serve me gently for free. Thanks guys.",
+                "useful":0,
+                "user_id":"GQrHc3MphtnZDj5BgwcrlQ"
+            },
+            {
+                "cool":0,
+                "date":"2016-02-21 17:45:03",
+                "funny":0,
+                "review_id":"4auYz9OV4oKAH5n5vK_UPA",
+                "stars":5,
+                "text":"I normally don't Yelp about chains, especially well established ones like Starbucks because they are already have a great name, but I had such a great experience in such a short amount of time spent here at this Starbucks on Flamingo. This morning I had a little more time before work than normal so I turned around and went to the drive through at this Starbucks. As soon as I pulled up to order, the most genuine voice greeted me, took my order, and I pulled up to the second window to wait for my drink. My barista, Andy, with the same genuine voice greeted me again with a smile, handed me my drink and bid me good day. Sounds like a typical encounter at Starbucks but Andy really made my morning just with the genuine kindness in his voice. Thank you, sir :)",
+                "useful":2,
+                "user_id":"I70jgmMpKH7qgqr9va28Og"
+            },
+            {
+                "cool":3,
+                "date":"2014-12-14 15:43:31",
+                "funny":1,
+                "review_id":"rqkYqBhtdrQDeWZqYGv_ew",
+                "stars":5,
+                "text":"They have the Clover brewed coffees! We were flying out of Vegas and we needed a couple of refreshing brews on this hot, hot day. We picked this Starbucks specifically because it was not in a casino, was close to the strip and brewed clover coffee. Even though we didn't try a clover coffee, we wanted to check out the machine and the upscale coffees that are offered at stores with a clover machine. We were not disappointed as this Starbucks was replete with a plethora of exotic coffees. \nThe actual coffee shop was larger than many and had a number of sitting spaces.\n The clientele at the time we were there was eclectic and if you enjoy people watching, this is definitely the place to go.\nAnother plus for this location is that it has a drive through. \nThe barista was quick and delivered a couple of perfect coffees (one vanilla latte and one caramel macchiato).\nAnother wonderful experience at Starbucks.",
+                "useful":3,
+                "user_id":"diYbASjeqV4CxkoyeBeBGw"
+            },
+            {
+                "cool":0,
+                "date":"2016-03-04 20:35:13",
+                "funny":0,
+                "review_id":"qeRcHShexTRg8Z3kS_67jw",
+                "stars":1,
+                "text":"Long time Starbucks member, have a gold card, am at a Starbucks almost everyday. I Was planning to get a drink but I had to use the restroom first. The barista was extremely rude, and says, \"its only for paying customers\" with a smug look on her face. I would understand if it was someone who was homeless/ and or transient who was going to use the bathroom for other uses. But I am a student with a backpack here to get some work done, who just really had to pee first. Rude service.",
+                "useful":0,
+                "user_id":"kIRmhv_GAagDTI8CUAXIrg"
+            },
+            {
+                "cool":0,
+                "date":"2018-09-01 18:02:17",
+                "funny":3,
+                "review_id":"ftg29YGoHy49qgLMGNhs_w",
+                "stars":3,
+                "text":"Wow, I remember why I quit going to Starbucks. So expensive for a caffeine and sugar rush/crash. I'll stick to making it at home.",
+                "useful":1,
+                "user_id":"3oDWaCp5w40bGHYmrAofHw"
+            },
+            {
+                "cool":0,
+                "date":"2018-05-27 22:37:12",
+                "funny":0,
+                "review_id":"sPNQcJjbeNZXPU-3cf6O8A",
+                "stars":3,
+                "text":"***update***Brandon and Chris continue to give great service. Moved to Howard Hughs Blvd and have been using them for 3 months now and I get the best service and the BEST caramel fraps from Brandon.",
+                "useful":0,
+                "user_id":"EA-UgJmd-hQ8RBn1odmDJg"
+            },
+            {
+                "cool":1,
+                "date":"2016-08-02 21:05:16",
+                "funny":2,
+                "review_id":"5iiq0qgp0ZXlwl_93_umyg",
+                "stars":1,
+                "text":"Came in for coffee and my order was taken by Michele. She was rude and literally proceeded to yell at her coworker as soon as she finished ringing me up. What a bully. Will never return here.",
+                "useful":4,
+                "user_id":"6S0C4SwLyVgoIm0N93Mwcg"
+            },
+            {
+                "cool":1,
+                "date":"2018-09-12 23:50:18",
+                "funny":0,
+                "review_id":"_fa64REYF9ddaOSQr3FrXQ",
+                "stars":5,
+                "text":"This is absolutely my favorite STARBUCKS in Las Vegas!! And a place where people know me by name! What can I say? Awesome customer service, and not to mention the delicious and oh so irresistible coffee! I normally order a iced latte with coconut milk!! Their coconut is worth the extra money and its a great drink without the added pumps of sugar! I will say this location is a tad pricier given they have the same tax as the lv strip! Overall great location and customer service!!",
+                "useful":1,
+                "user_id":"23WZsw0pLiEMm1nHSqFlKg"
+            }
+        ]
+    },
+    {
+        "address":"1401 East Boulevard",
+        "attributes":{
+            "WiFi":"u'free'",
+            "RestaurantsPriceRange2":"2",
+            "BusinessAcceptsCreditCards":"True",
+            "BikeParking":"True",
+            "OutdoorSeating":"True",
+            "BusinessParking":"{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+            "RestaurantsTakeOut":"True",
+            "Caters":"False"
+        },
+        "business_id":"vUhxuFgKCZn6cTZePbhd6g",
+        "categories":"Coffee & Tea, Food, Restaurants",
+        "city":"Charlotte",
+        "hours":{
+            "Monday":"5:0-22:0",
+            "Tuesday":"5:0-22:0",
+            "Wednesday":"5:0-22:0",
+            "Thursday":"5:0-23:0",
+            "Friday":"5:0-23:0",
+            "Saturday":"5:0-22:30",
+            "Sunday":"5:0-22:0"
+        },
+        "is_open":1,
+        "latitude":35.201278,
+        "longitude":-80.843436,
+        "name":"Starbucks",
+        "postal_code":"28203",
+        "review_count":103,
+        "stars":3.5,
+        "state":"NC",
+        "reviews":[
+            {
+                "cool":0,
+                "date":"2014-05-25 22:30:33",
+                "funny":0,
+                "review_id":"6RzG_jmGP1S3NOODuzKzfw",
+                "stars":5,
+                "text":"So far, one of the best Starbucks in charlotte. Been living in dilworth community since a year and I happen to land here just now. How could I have missed this place...",
+                "useful":0,
+                "user_id":"X6tSM0RkHR96itkC9sJ4Ig"
+            },
+            {
+                "cool":0,
+                "date":"2013-04-11 19:00:32",
+                "funny":0,
+                "review_id":"_EcaFf2UNFJSt1d-d_DVKA",
+                "stars":2,
+                "text":"There are so many things to love about this SBUX... Ample seating, cute exterior, decent amount of parking, consistently good drinks, friendly baristas... but all of that is overshadowed by the awful wi-fi... I just spent 30 minutes trying to connect to the internet and, when it finally happened, it was painfully slow!! This happened to me the last time I was here too :( I would love to LOVE this location but I think I'll save it for the days I just want to hang out and read a book... Not for the days that I need to get work done!",
+                "useful":3,
+                "user_id":"PVyZXgOkVtnU6966FDFhuw"
+            },
+            {
+                "cool":0,
+                "date":"2018-07-26 17:24:01",
+                "funny":0,
+                "review_id":"UcC43o9FxRgOH1Nz4YwLGw",
+                "stars":1,
+                "text":"I came here the other night and the girl at the register and I'm assuming another employee were chatting away. She seemed to be irritated that i was interrupting and didn't say thank you or you're welcome...none of the pleasantries. She had a snarky attitude which i don't know what that was about. I said thanks when she handed me my coffee and she said \"mmmmhmmm\". That's super super annoying. People come to Starbucks not because your coffee is sooo great, but for the EXPERIENCE.  Hold your employees accountable. Also there is this homeless man that is always there, and he always is approaching me. Why is he allowed to be in there? The last time he was there he followed me down south Blvd. when i questioned the employees they screamed that he had a mental problem. Okay even more reason for him not to be there. Where is the management in this place because it is clearly lacking and not present. Danger zone.",
+                "useful":0,
+                "user_id":"SMqZH0m4M9Leooo6nCswKA"
+            },
+            {
+                "cool":1,
+                "date":"2011-02-15 13:20:07",
+                "funny":0,
+                "review_id":"oTeQd2IFFoOIuMNEIwWO5Q",
+                "stars":4,
+                "text":"So I stop at this Starbucks almost everyday after my workout.  I am in here at 6:30am and the baristas are extremely friendly and they know exactly what you want when you walk in.  I enjoy watching all the regulars come through as I sit down for about 5 minutes and enjoy my Venti Americano.  Plenty of seating options and a great place to meet friends to catch up over a cup of coffee\n\nI would give it 5 stars but the parking areas is horrible - if I could vote rate the parking it would be one star. However, the location, the friendly baristas and the coffee we all love makes this my coffee shop of choice post workout.",
+                "useful":3,
+                "user_id":"1gEx8Si6rkStWBp_IXnGCw"
+            },
+            {
+                "cool":0,
+                "date":"2014-11-30 16:55:29",
+                "funny":0,
+                "review_id":"AdxDfM8nxjECov8f8aWDpQ",
+                "stars":5,
+                "text":"I LOVE Starbucks coffee shop!!!!!!\nThe drinks are DELICIOUS!!!\nAnd the food and pastry items are also DELICIOUS!!!!!!\nThe service is great, you always get a smile with your coffee!",
+                "useful":0,
+                "user_id":"kPOUAXo6VhoGq5a-pt5abQ"
+            },
+            {
+                "cool":0,
+                "date":"2011-09-27 19:10:26",
+                "funny":0,
+                "review_id":"te8LLdgnbBfHFQt54wdYMg",
+                "stars":5,
+                "text":"I love Starbucks. This location is great - busy street for people watching but quiet to get work done. Staff are awesome.",
+                "useful":0,
+                "user_id":"349g_rDYTKbuMHWPQLA-7g"
+            },
+            {
+                "cool":0,
+                "date":"2014-04-01 19:10:24",
+                "funny":0,
+                "review_id":"C_0Isfed9du0zoZN-8XrlA",
+                "stars":5,
+                "text":"I love this Starbucks! It is super cute and cozy.  The little foyer area is my favorite place to sit.  What an awesome environment!",
+                "useful":0,
+                "user_id":"-eh6LgIhQerj0V20o3dMBA"
+            },
+            {
+                "cool":0,
+                "date":"2015-09-11 14:01:39",
+                "funny":0,
+                "review_id":"S5kjEYSDXibUWgv7IoacVg",
+                "stars":2,
+                "text":"Worst parking situation and location.  Don't park in spots without a specific Starbucks sign (even a spot without any sign) as you will get a boot on your car.  Nice remodel and chai was okay but this is my least favorite Starbucks.",
+                "useful":0,
+                "user_id":"w997OVGQaLJ0wTJT3AygpA"
+            },
+            {
+                "cool":1,
+                "date":"2016-03-07 16:09:25",
+                "funny":0,
+                "review_id":"ypH_iwf6kj7MVR7HKlFOEQ",
+                "stars":3,
+                "text":"It's a Starbucks, so don't get too excited.\n\nThe inside has plenty of seating, but finding a seat that hasn't been commandeered (past participle) for the day is difficult.\n\nThey have outside seating that gets plenty of sun, so even on a cool day it's nice to sit outside.\n\nThey parking is in the back and is limited and the very last row of parking is reserved for other businesses and you could get towed.",
+                "useful":2,
+                "user_id":"ciXjBfJrAEteIKpzZg4I9g"
+            },
+            {
+                "cool":0,
+                "date":"2017-05-01 15:47:32",
+                "funny":0,
+                "review_id":"LFQa6LU3utb5o5jWx7_6Iw",
+                "stars":5,
+                "text":"This is my favorite Starbucks ever- it's in a quaint old craftsman home and has a unique and cozy vibe to it. I could hang out here all day. There's a great variety of seating depending on how you like to work and the staff is friendly and fast.",
+                "useful":0,
+                "user_id":"fEZMEydFQh6A7-eKVebmdQ"
+            },
+            {
+                "cool":0,
+                "date":"2018-01-23 19:36:41",
+                "funny":0,
+                "review_id":"-tk1zuYnoAItGxV5phi1rQ",
+                "stars":4,
+                "text":"Great location. Really nice Starbucks to hangout and chill. Or do a little work. Very spacious. Parking is in rear tight but plenary of spots.",
+                "useful":0,
+                "user_id":"80mdMttj6H0Wdd_1PfwDKA"
+            },
+            {
+                "cool":1,
+                "date":"2010-07-10 06:55:35",
+                "funny":0,
+                "review_id":"HYNEs5EGfQdxRItmTBeB-w",
+                "stars":5,
+                "text":"This is a friendly Starbucks.  Obviously most people know what a Starbucks is so I won't bore you with details.  The staff is friendly.  After a couple of visits, they remember your name.  It's pretty spacious inside.  I never stay too long but you always see people congregating and working or chatting, so it's a friendly atmosphere..\nThey usually have free samples of some pastry or drink so you can try different things out.  They even have a drive thru.  One time I went through there and got a free coupon cause it took too long.  But it really wasn't too long, but free coupons are always nice.",
+                "useful":2,
+                "user_id":"pznDHVHsO1ZbsG7f4TaNRA"
+            },
+            {
+                "cool":0,
+                "date":"2015-01-19 17:12:08",
+                "funny":2,
+                "review_id":"-pHqFzehxWdtE2K3YNAR7A",
+                "stars":1,
+                "text":"Thought I was in the last Starbucks customer spot.  Lot owner booted my car after being inside 7 minutes.  Very opportunistic.  Tons of open permit spots on a bank holiday.",
+                "useful":5,
+                "user_id":"TGpbaMFCwIkt_veAZ1_NTw"
+            },
+            {
+                "cool":0,
+                "date":"2011-03-24 13:17:11",
+                "funny":0,
+                "review_id":"_b16tJ3v4Rj8zRIBkG5n6Q",
+                "stars":5,
+                "text":"I agree with Suzanne S. who noted the lack of needing a review for a Starbucks, but I also wanted to give a shout-out to all my baristas at this location!  They are friendly, always have a smile and a friendly greeting for everyone and my beverage comes out exactly the way I like it every day!  I really appreciate that they get to know all the regulars and it is such a pleasant way to start my mornings!\nThe parking situation is a bear, but just make sure that you keep an eye out for the big, mean tow trucks.  Otherwise, this is a great place to get my \"fix\" every day.",
+                "useful":0,
+                "user_id":"TeYB7XZtV9V_LQDrVrjHsg"
+            },
+            {
+                "cool":0,
+                "date":"2014-06-13 18:24:02",
+                "funny":1,
+                "review_id":"F1F5hPi81ITGSkox5jCRyQ",
+                "stars":5,
+                "text":"Love Starbucks... but have to say the Key Man parking signs in the lot have ruined it for me.  Key Man has way to many parking spots and needs to be lenient when they have a tons of spots free and Starbucks has none. Don't park or you will get booted- not worth the $50 fee to get free.\n\nhttps://local.yahoo.com/info-13219014-key-man-charlotte\n\nLove Starbuck but   hate    the parking situation...\n\nAlso see the BBB and what has been going on for years.  The Key Man spots had tons of free spots available, and I agree that if the lot was full- then it makes sense to ticket.  The lot was not full so they should be friendly to their neighbors...  wow what a concept.\n\nBBB review on Key Man- http://www.bbb.org/charlotte/business-reviews/office-buildings/key-man-building-in-charlotte-nc-120818/complaints#breakdown",
+                "useful":2,
+                "user_id":"nD-Sh3ldfBn2q2nrJUyHfw"
+            },
+            {
+                "cool":0,
+                "date":"2014-02-07 02:54:17",
+                "funny":0,
+                "review_id":"KRXW_pWEHxMuLEGZeWqKFg",
+                "stars":5,
+                "text":"This is the Mecca Starbucks, look no further. The epicenter of coffee meetings, people watchers, college studies and anyone else needing a java fix. The parking is much improved though you still need to park in only marked spaces. The leather chairs against the far wall from the coffee bar are highly coveted. Get there early.",
+                "useful":1,
+                "user_id":"hVidDZUvOiy3xl0v3WKJlg"
+            },
+            {
+                "cool":0,
+                "date":"2015-06-22 14:58:32",
+                "funny":0,
+                "review_id":"qth4tj3UxyoOl0Xa0VevZA",
+                "stars":4,
+                "text":"Used to love to come here to read but since the recent renovation, they got rid of all the comfortable seats. There is a lot of seating and it isn't bad, but it is a lot more conducive now for working on a laptop than sitting and reading book.",
+                "useful":0,
+                "user_id":"CW327O4AbA5avXog1NYrxQ"
+            },
+            {
+                "cool":0,
+                "date":"2017-01-17 20:01:10",
+                "funny":0,
+                "review_id":"LwxQXX83aquN_jUUs09Ypw",
+                "stars":1,
+                "text":"This Starbucks is always busy and there are no spots for parking. If you don't park in one of the \"Starbucks Only\" parking spots you will be booted. The signs are not clear either and when I went there were no available spots. I parked next to one of the Starbucks spots and I got booted within 5 mins. My $3 latte turned into $85. Not worth it at this location. Go to one of the other Starbucks.",
+                "useful":10,
+                "user_id":"Qlt6uc1jxCuih3VpHG3mpg"
+            },
+            {
+                "cool":0,
+                "date":"2015-10-09 20:25:35",
+                "funny":0,
+                "review_id":"_MlqOGrVUorlSmZWjk28mw",
+                "stars":3,
+                "text":"There are shockingly few good coffee shops in this part of Charlotte, so this is one of the better options in the area. The service is pretty quick given the very high volume of customers. There are plenty of comfy chairs and tables, and the wifi connection is very solid (most of the time!). \n\nBut that parking lot is horrible. Maybe one of the worst lots in the city. They can't do too much about the number of spots available, unless they bought up some of the always vacant spots from the neighboring business. You practically need an all-terrain vehicle to navigate the mountains and craters of that asphalt.",
+                "useful":2,
+                "user_id":"18_xSvye3_8oTjT5Ue-ozw"
+            },
+            {
+                "cool":0,
+                "date":"2016-02-25 14:57:56",
+                "funny":0,
+                "review_id":"y7W81sP_jDIiC0RRhjJqsQ",
+                "stars":1,
+                "text":"No internet. Bathroom hasn't been cleaned for some time. Chairs arranged like a landfill. Slow service. Should I continue? Parking is atrocious.",
+                "useful":4,
+                "user_id":"kDfPzQZu-EYhzVsuqQ1O0Q"
+            },
+            {
+                "cool":0,
+                "date":"2016-04-15 03:06:18",
+                "funny":0,
+                "review_id":"34P9HfO2xWc-TrCQmD7K6g",
+                "stars":3,
+                "text":"To be honest this is my least favorite starbucks to come too and honestly the only reason I do is that its the only one by my house I mean to be fair they are super busy like ALL the time so I get really frustrated about how long the drinks take but since ive discovered mobile ordering its made things a little easier. I am harsh in my rating as I recently moved to southend and thus was forced to switch from my Pineville starbucks where they knew my name and my order and were always happy and fast as lightening to this starbucks where due to my addiction to their coffee I continue to come regardless of the fact that its super slow my drinks price is ever changing my car has been booted and regardless of the large seating area you can NEVER find somewhere to sit seriously do these people live here or what? I mean its starbucks its still very good its just the general experience of this particular one that leaves me unsatisfied mostly due to the potential this one has outdoor seating and all. I will keep coming but not to hang out like in my former one. I order my coffee I get in and get out with hopefully no boot on my car. \n\nOn that note take care about where you park outside theres a building next door called the key man building and while I have yet to figure out if theres any actual running offices in this particular builing they will boot/tow your car with no mercy at all I have seen people park in the flower beds in the starbucks parking lot just to avoid parking ONE SPACE over from where the starbucks parking lot ends even though this office building doesn't even seem to need all the spaces at all.",
+                "useful":0,
+                "user_id":"_EBGLn2zi2n4G5Fd9kAsPg"
+            },
+            {
+                "cool":0,
+                "date":"2014-09-29 00:46:41",
+                "funny":1,
+                "review_id":"OhjUu38azm2WgkKMv7FUzg",
+                "stars":4,
+                "text":"Great spot to chill and enjoy your coffee\n. This is where I usually meet my friends and do some school work . Great environment",
+                "useful":1,
+                "user_id":"LOgwa6aZR0ei_PaHQPJ9EQ"
+            },
+            {
+                "cool":2,
+                "date":"2013-01-07 15:43:36",
+                "funny":1,
+                "review_id":"hdxUccoCOchGHSmKLXdeDQ",
+                "stars":3,
+                "text":"Starbucks isn't my usual stop these days for coffee but this store is quite convenient at the corner of East Blvd and Scott  in the heart of Dilworth's shopping district.\n\nThe store has plenty of comfortable seating inside and you don't feel like you are crammed in like a sardine like some other coffee shops.  And there's a 2 level patio out front that is very popular.\n\nThe problem with this store is parking.  Parking is tight and it's very limited. Actually I think that's a requirement for Starbucks...limited parking.  There are signs on the door to direct you to the right places to park.  If you park in other areas, you risk being towed even on off hours.",
+                "useful":2,
+                "user_id":"SlgpAnj2gQd44EM_Uq6DkQ"
+            },
+            {
+                "cool":0,
+                "date":"2017-11-21 19:36:11",
+                "funny":0,
+                "review_id":"BNJlpLD3hRaH5wz2rw_yNg",
+                "stars":1,
+                "text":"This Starbucks I have come to on and off for 10 years and every time I have come here it is over staffed and the customers are underserved. This place takes forever to get a drink some compared to the other sb out there. This is so poorly run it is shocking it is part of the sb system.",
+                "useful":0,
+                "user_id":"ORZQGMXuk7JJO4P06_fyUw"
+            },
+            {
+                "cool":0,
+                "date":"2011-08-01 14:25:30",
+                "funny":0,
+                "review_id":"0N9FzNYx-FT4yPwVBEhpag",
+                "stars":3,
+                "text":"Great space inside, not very good space outside.  I think a lot of the previous reviews allude to the fact that parking here is a challenge.  I can imagine that this location is great for residents of Dilworth that can walk here.\n\nI'm not so sure I am convinced with the furniture placement since you end up in-between people having conversations - makes for an awkward time if you were just trying to get some alone time with a book and latte.\n\nStaff was friendly and got my order in correctly - pretty fast and efficient.  I may have just come at a good time though.",
+                "useful":1,
+                "user_id":"Ry1O_KXZHGRI8g5zBR3IcQ"
+            },
+            {
+                "cool":0,
+                "date":"2015-10-10 21:19:01",
+                "funny":0,
+                "review_id":"RgjgFIgnZWQCWlhBrAvfQg",
+                "stars":3,
+                "text":"I could almost get on a plane, pick the beans, fly back and brew a pot before my drink is ready at this shantytown.",
+                "useful":0,
+                "user_id":"Tyc1C7r2rlFDZnOnUnZz8g"
+            },
+            {
+                "cool":0,
+                "date":"2017-02-12 23:30:46",
+                "funny":0,
+                "review_id":"NVWR-imNL9_TyZjIHBTakg",
+                "stars":4,
+                "text":"Love this Starbucks, it's the only one in charlotte that still has the coffee house feel, plenty of room to sit, wooden floors, etc. doesn't feel like a fast food restaurant.",
+                "useful":0,
+                "user_id":"u8HPA-jU1njsPPAI_anMgA"
+            },
+            {
+                "cool":0,
+                "date":"2018-02-04 20:49:25",
+                "funny":0,
+                "review_id":"ZPodMrfmtif35gKBu1VpeQ",
+                "stars":5,
+                "text":"This is my favorite Starbucks location.  Although I'd rather hit the local coffee shops, Starbucks lures me in with the ability to mobile order on the fly.  This location in particular boasts a spacious interior with a fireplace, and various seating options.  \n\nLocated in Dilworth, on the corner of East and the one-way Scott, it can be a bit of a challenge to get in and out of for anyone that is not a \"local.\"  The tiny parking lot doesn't help much.  Some spaces are 15 minutes only, some are for Starbucks patrons only, it crosses North and South with East and West, and just leaves you feeling ahhhhhhh by the time you actually throw the gear shift in park.  Perhaps planned that way to make you \"need\" coffee even more?  #conspiracy \n\nIt's really not that bad once you get used to it though.  Just be careful for all of the parking lot potholes in need of some fresh paving.  They are great if you want your coffee sloshed out of the cup and into your lap.  If that's not your goal, take it slow on the way out.  It's also in a very walkable location for just about anyone in Dilworth, which I find to be a better option.  I like to park over at the Fresh Market, walk to get my coffee, and then head back over to do my shopping.  \n\nThis location seems to be the \"flagship\" location for Charlotte as it is the first to test new drinks, etc.  It was the first location in Charlotte to rollout the \"evening menu,\" including wines, as well.  The staff is always friendly here, but I've noticed that the cleanliness is greatly varied based on when the general manager is on duty.  She runs a tight ship and things are always up to par when she's in-house.  \n\nThis location is also one of the few with full bathrooms versus just the single standard toilet.  Given the traffic they get, I think it was a wise investment.  \n\nThe WiFi here is generally reliable and there's ample space to plug-in and juice up.  The communal table running up the center of the space has it's own outlets too.\n\nHit'em up when you need to make a buck stop or just get a little work done outside of the office.",
+                "useful":0,
+                "user_id":"ZlDYPORxTpNgImmbwIn3Dw"
+            },
+            {
+                "cool":0,
+                "date":"2010-03-29 06:22:14",
+                "funny":0,
+                "review_id":"IFAwf1l21QBwbWMwtdwqCQ",
+                "stars":5,
+                "text":"Hands down the best Starbucks I have ever been to. It's in a nice area of town and it just looks like a house, complete with a front porch. The only negative is the somewhat limited parking. You'll find a spot, but you might have to walk a bit after that.",
+                "useful":3,
+                "user_id":"sHtfBnr7lZrx8-IE1eUqJw"
+            },
+            {
+                "cool":0,
+                "date":"2012-03-09 01:31:03",
+                "funny":0,
+                "review_id":"yP7BIFVP2rt5Q07l1GSzAg",
+                "stars":4,
+                "text":"When it comes to coffee shops (and restaurants), my mantra is \"choose local\"... except at airports - you can't escape those franchises!. Yes, I am aware that I am not the first to think like this. On top of it to being beneficial for the local economy, I like that their ambiance tends to be warmer and quirkier paired with tasty foods and drinks! However, I have broken this rule with this Starbucks. The reason? The combination of location and, most importantly, outside seating. So, this is the basis of my review, not service, not products - those are pretty standard. \n\nIt is not news that the drive down East Blvd. is beautiful with its historic houses surrounded by hints of spring. So that adds coolness points to this coffee shop. But what sold me immediately was the 2 level outside seating. Perfect for getting some work done! Although if you need to plug your computer, there's only one spot where you can sit. Regardless, this seating area is ample. There are ~10 tables that seat multiple people each. It's surrounded by trees that give you the perfect amount of shade while also getting your Vitamin D fix. \n\nThis place is no secret... I wish it was. It tends to be crowded during peak hours. So, parking is an issue. When in doubt if it is an authorized parking spot, don't park.  I've seen cars getting booted multiple times. And of course it goes without saying - finding a spot to sit, will also be an issue.\n\nSo, there it is - my confession. Although in my defense, when I first noticed this place I did not even think it was a Starbucks. The sign is kinda hidden depending on the direction in which you're driving.  Writing this review made me realize that I don't know of another coffee shop with plenty of outside seating. If someone can point me in that direction, I'd be more than happy to support some local places.",
+                "useful":0,
+                "user_id":"VOl8R4ReOZ2fq9nGA6Au0A"
+            },
+            {
+                "cool":1,
+                "date":"2013-06-05 13:43:47",
+                "funny":1,
+                "review_id":"zpoEq1nMkxxXqGaIxdudUA",
+                "stars":4,
+                "text":"I was only in Charlotte one day when we found this Starbucks. It looked like an old house (because it is) and so I didn't see it. Once you walk in its awesome!!!  Huge amount of space inside filled with plenty of comfortable chairs to lounge in, tall tables and chairs and an outside deck. Instantly I found my new work office. I'm stoked!!!\n\nOh, and they sell coffee.",
+                "useful":1,
+                "user_id":"KoNxgCRnflJ7FK6CRBqbFA"
+            },
+            {
+                "cool":0,
+                "date":"2016-05-10 15:48:33",
+                "funny":0,
+                "review_id":"tvdwIMH8Y0uJ0TSN7sEtxw",
+                "stars":5,
+                "text":"I know the parking is atrocious and there's always a small line but I seriously love every human that works here. The baristas remember my name and always give me the best service. It's fast, my order is always right and the folks are super friendly. For a national chain, this place feels local to me. I'm a fan.",
+                "useful":0,
+                "user_id":"QEpnefA6n56Yx7I9Iv9jjw"
+            },
+            {
+                "cool":0,
+                "date":"2018-05-12 18:25:27",
+                "funny":0,
+                "review_id":"BgOJinnXcsw-ns9uqgtm-w",
+                "stars":1,
+                "text":"The service here is just awful with little to no quality control or leadership. So the customer experiences suffers. \n\nI come to this Starbucks a lot since it's by the park and I order pretty simple drinks but almost every single time I visit this location my drink is either wrong or they put such little effort into the drink that it has to be remade. This is a trend that has gotten worse over the past 12 months or so. \n\nExample: I order a matcha green tea lemonade and they don't mix up the matcha powder. Or you wait 15 mins while there was only a few drinks ahead of you and the employees just lackadaisically move around and complain about their workplace. \n\nI want to love this location, it's in a great spot and the building is cool but my goodness is the service bad. If the service is this bad the management at this location must either be nonexistent or just don't care. \n\nStarbucks corporate needs to take a good hard look at the customer experience here and look past the numbers (cause I'm sure this location is incredibly profitable) and look at how it's being managed and how employees are being trained. When you pay $5 for a coffee and almost every time you visit this location it's not up to the quality that Starbucks projects then that's a massive issue. \n\nA mistake or issue every now and then is only human but a significant pattern of error is a problem. \n\nPlus the location in Elizabeth off 7th street just closed so there isn't other options near by if you live in Plaza. Come on Starbucks! Get your act together!!",
+                "useful":2,
+                "user_id":"9E-Tru1Mn-BfJBmVxUJn5w"
+            },
+            {
+                "cool":1,
+                "date":"2009-06-07 03:44:43",
+                "funny":0,
+                "review_id":"-3gqfSp8g_HutsZKAd-1kA",
+                "stars":4,
+                "text":"This location is one of the coolest Starbucks I have been to (mainly due to environment). It looks like a house on the outside and is very spacious on the inside. There are many places to sit, read, sip, etc.\n\nIt's at a great location off of East Blvd; however, parking can be tricky. Many people walk in, but if you drive, watch the signs in the back parking lot carefully. If you are in Dilworth, give this Starbucks a try!",
+                "useful":1,
+                "user_id":"Reuq65EOFI938Yg8xgff9g"
+            },
+            {
+                "cool":0,
+                "date":"2018-09-07 20:17:59",
+                "funny":0,
+                "review_id":"3v4-G2DemSWb2wZy2Z1Vzg",
+                "stars":5,
+                "text":"This is the best Starbucks I've ever been to IN MY LIFE and I travel for a living and have gone to more Starbucks locations than I can count. \n\nThe manager Carrie is not only a fantastic leader and worker but the sweetest person. She helped me out as I came in looking for the instant pumpkin spice latte packets to send to my friend in Australia who doesn't have a Starbucks in her country. She was on her way out, not even on the clock anymore and stopped to get me what I needed, ring me up and was extremely kind the entire conversation. I was having a terrible day and she has changed my mood 180. \n\nThank you so much Carrie and from now on I will be coming to this location even if it is a little out of my way. Friendly reminder to me and everyone that a little kindness to a stranger goes a long way.",
+                "useful":0,
+                "user_id":"lKi4E_JUpD4ieZmTISw4RQ"
+            },
+            {
+                "cool":0,
+                "date":"2016-02-16 20:04:00",
+                "funny":0,
+                "review_id":"fhrwfpjJt9VnrOZEkwLPfg",
+                "stars":1,
+                "text":"What a Rip!  I am so upset. I went into this location and came out approx 20 minutes later only to see a sticker on my window and my car booted!  I called the tow co -United Towing- Kevin the manager along with Chris who manages the KeY man bldg of the lot are both heartless. I had to pay 75$ plus a 10% credit card fee to get the boot off my tire!  And there is 2 hour window and then your car gets Towed and it costs even more!  I was just passing through the area. I live in LA and this happens a lot there, but I didn't expect it here in the Carolinas. I went back inside and asked an employee of the Starbucks and she said this happens all the time and there was nothing they can do for me. In fact -a nice couple in line over heard me talking and said same thing happened to them and told me numerous other cases. Think twice before you park in that lot!!!!!  I saved one guy who was going to park there and walk across the street from parking in a non Starbucks space.",
+                "useful":5,
+                "user_id":"Ib1Gv7QHnAVwNjdsdQDC-w"
+            },
+            {
+                "cool":0,
+                "date":"2013-08-21 02:33:35",
+                "funny":0,
+                "review_id":"qtMrmBkDV9YUyBVOtaiybw",
+                "stars":3,
+                "text":"Good starbucks, standard starbucks affair.  Parking can be very difficult here though.\n\n Also, it is always packed during the day and you can't find a spots to sit down inside. Everyone seems to be there working and stealing their wifi.  \n\nNice Location and its in a old building.",
+                "useful":1,
+                "user_id":"c-1biwACMAHTD4AtOlWnpQ"
+            },
+            {
+                "cool":0,
+                "date":"2015-06-01 12:25:59",
+                "funny":0,
+                "review_id":"HTMYa1G7ZiNE_4rUY1RoWA",
+                "stars":3,
+                "text":"The atmosphere and facilities of this Starbucks location are great. It all falls flat the moment you get in line to order. I'm always so surprised at the lack of urgency of the baristas. I often feel that I am inconveniencing them by placing my order, much less I ask for them to restock something at the drink station.",
+                "useful":1,
+                "user_id":"kwZFpDlXQMJaxSdgAavtbA"
+            },
+            {
+                "cool":0,
+                "date":"2016-05-09 20:29:16",
+                "funny":0,
+                "review_id":"HyoYkeMzLmptq-wbNJZ_zQ",
+                "stars":1,
+                "text":"*******this is a review mainly on parking*******\nThe Starbucks itself is decent, but parking is totally ridicules. \n\nParked at Starbucks on East Blvd where United Towing manage the parking lot, got booted on a no marking parking space two minutes later when I walked out with my coffee. Call the number the person over the phone was rude and laugh over my request on filing a complaint. The towing staff was creeping on the corner of the lot waiting for any possible opportunity to charge people for their misfortune. They charge $75 for booted and 10% more for credit card, which is insane. The stuff knows nothing but charging you more. This is a despicable company with very in-respectful stuffs.",
+                "useful":7,
+                "user_id":"Ou3mElJUuhUJvyfv8CqkWg"
+            },
+            {
+                "cool":0,
+                "date":"2015-06-01 14:23:49",
+                "funny":0,
+                "review_id":"z2lWtS7xZ6mUslIVYRT4hA",
+                "stars":2,
+                "text":"Ever since Caribou Coffee closed on East Blvd, getting into Starbucks has been a nightmare.  I used to stop there every Saturday for a drink, perhaps lunch, too.  Then they stopped carrying their food items when they took on La Boulange items (French for \"tastes like cardboard,\" I think).  After that, I took it upon myself to never buy food again at Starbucks until they came to their senses and got rid of La Boulange.  So now any time I stop, it's JUST for drinks.  Which in itself can be a nightmare.\n\nThis past Saturday, I visited Starbucks on East Blvd for an iced coffee.  I took the only parking spot that was left in their bumpy, pothole-y, limited-space parking lot.  I was happy to see that the line to order was incredibly short and quickly placed my order.  What I didn't notice was the throng of people surrounding the other end of the counter, waiting for their drinks.  While the SB employees appeared to be working very quickly, the demand was more than they could reasonably handle and produce.  (Hey, SB managers -- how about scheduling more employees for one of the busiest times of the day?)\n\nWhile waiting for almost 10 minutes for my simple, basic iced coffee (pouring it from a pitcher into a cup), I looked around the establishment.  They've recently renovated (again) and, if it's possible, there is even less seating to meet the demand of the number of people that frequent this particular restaurant.  For one thing, there are fewer individual tables.  For another, there aren't enough chairs to even accommodate those tables.  There were empty tables with no chairs around them!  They've also gone with the space-hogging long community tables, like anyone who goes to SB with a book, laptop, friend, etc. wants to sit closely with another party.  One thing that used to make SB great was the intimacy it provided for its patrons.  I guess that's out the refurbished window.  The drink delay also gave me a chance to get a really good look at the cleanliness of the tables, and especially the common area with the cream, sugar, etc.  It was not replenished and filthy.  FIL-THY.  The garbage was overflowing onto the counter.  It looked abandoned.  Someone really needed to get out on the floor (hello, manager again!) and CLEAN. THINGS. UP.   The outside seating wasn't much cleaner.  \n\nEvery time I go to this Starbucks, it seems like they've renovated again, but it seems like when they do, they always miss big opportunities:  more seating, more staff, cleaner facilities.  Starbucks should reasonably be embarrassed by this store.",
+                "useful":3,
+                "user_id":"_uqIpl5tzucKuIlZZPBZRw"
+            },
+            {
+                "cool":0,
+                "date":"2017-10-08 14:22:28",
+                "funny":0,
+                "review_id":"smRmjQVEuE75zamnU9juKw",
+                "stars":2,
+                "text":"I used to rely on this particular location for a consistent cup of coffee and the occasional snack but the service has really gone downhill. Last week I waited over 15 minutes for a cappuccino and the lemon loaf they handed me was in the plastic bag still. There was a woman running the show who seemed quite competent and efficient, but the rest of the young staff did not have it together.",
+                "useful":1,
+                "user_id":"KNnFOm6QX3_szUT_u6_2_g"
+            },
+            {
+                "cool":0,
+                "date":"2016-08-30 12:58:10",
+                "funny":1,
+                "review_id":"oGiBBlPsxX-vuPEx-g--og",
+                "stars":5,
+                "text":"I'm thinking it is necessary to leave a review for Starbucks??? I mean we know the general selections. But I'm willing to bet there are still folks out there you have yet to have their oatmeal. I've heard Chic Fil A offers some good oatmeal, but I bet you $10 Starbucks oatmeal is better. Why? \n\nFresh blueberries (that you grab yourself... at this location at least)\nA big steaming cup of creamy (healthy) oatmeal\nA fruit, nut, and seed medley for that extra healthy kick\nAND! they got agave folks. Not brown sugar (well they have that too) but this of course is a lot healthier, especially when it comes in a small pack for just a touch of sweetness. \n\nNow I'm not trying to sell others on this. It's just been a minute since I've had their oatmeal. \n\nI've been coming to this joint since at least 2014 for breakfast, brunch, lunch and snack. Honestly I've come here so many times I should be the Dutchess of this joint, but clearly I've been slack on the check ins. \n\nIf you haven't tried the blueberry oatmeal. Please do. Keep your heart healthy and your belly full with this. \n\nIf you don't have patience, you may want to venture to another location as the parking can be atrocious, but I won't hold it against this place. And 9 times out of 10 I'm going to get a friendly face taking my order (no matter how busy it is). Just have your order ready. Nothing like standing behind someone who isn't sure about what they want. If you don't know... stand to the side and get it together before standing in line... I'm just sayin.",
+                "useful":0,
+                "user_id":"yy7shAsNWRbGg-8Y67Dzag"
+            },
+            {
+                "cool":1,
+                "date":"2013-07-02 21:49:31",
+                "funny":1,
+                "review_id":"bwiq0jzMk7CNuTwWd1i-mw",
+                "stars":3,
+                "text":"This Starbucks location is adorable! I love that it is an old house and the interior has plenty of comfortable seating, and there is a patio to enjoy on warm summer days. The staff is friendly, but if it is busy you will wait a good while for your drink order (good thing you can get comfortable). \n\nThe big issue with this place is parking! It is difficult to find a spot when it gets busy and BE CAREFUL where you do park. They have no reservations with towing your car if you do not park in a spot marked for Starbucks...I know...they put a boot on mine. They wasted no time at all putting a boot on my car while I was in Starbucks for 10mins, but I had to wait 45mins for the tow truck to come back out so I could pay him $50 to take the boot off of my car, in the meanwhile I watched several other cars get towed. Just be careful where you park while you enjoy this Starbucks location!",
+                "useful":4,
+                "user_id":"HVq7SYfZ4hpFFVsAU_Ub_Q"
+            },
+            {
+                "cool":1,
+                "date":"2012-02-15 14:53:48",
+                "funny":1,
+                "review_id":"S0wnurmoDEAM8gxq6u386A",
+                "stars":4,
+                "text":"This is a uniquely laid out Starbucks. So many are plain and boring and almost cookie cutter. Yes, if you're facing the register, it is exactly like any other. But if you turn and look at the seating area, wow. Hardwood floors, a scattering of sofas and comfy chairs, a fireplace, a \"downstairs\" sitting area by the front door and even a patio outside with seating. I'm sure this was a really lovely home and now it's a really lovely Starbucks.\n\nYep, the coffee is the same. Free wi-fi works well. Maybe not as many power outlets as I would like, but there are a good number of 'em.\n\nIf you can't find a space on the street, there is a medium-sized parking lot in the rear with spaces reserved for Starbucks patrons.\n\nTip: Be VERY aware when you're sitting at one of the \"downstairs\" tables. People can be clumsy and you could well end up wearing someone else's coffee. Or your laptop could.",
+                "useful":1,
+                "user_id":"hWDybu_KvYLSdEFzGrniTw"
+            },
+            {
+                "cool":0,
+                "date":"2018-07-13 15:25:28",
+                "funny":0,
+                "review_id":"MOtK8o_1mvGs3KgoU-EkyQ",
+                "stars":5,
+                "text":"They always get my (probably overly complicated) order correct and by ordering online, I never have to talk to anyone. Great place.",
+                "useful":0,
+                "user_id":"rSlUUfFXoL03liNzi89BcA"
+            },
+            {
+                "cool":0,
+                "date":"2011-06-11 02:28:08",
+                "funny":0,
+                "review_id":"rE7F8Lr4fjs0Jn6JRH6lRg",
+                "stars":5,
+                "text":"The East Blvd. location does need it's own review because it is a pretty exceptional location. With ample comfortable seating an open spaces it is easy to relax and read, get work projects done, or chat with friends.\nThe staff always seems to be among the best no matter who they hire.\nWatch where you park. The huge lot actually does not have many space for Starbucks and if you park wrong, you are almost guaranteed to find a boot or your car towed. Can't find a designated space? Don't chance it, park on the street or circle around until someone leaves.",
+                "useful":1,
+                "user_id":"Ntq_6n5SpkZGmNHXnEmlNQ"
+            },
+            {
+                "cool":0,
+                "date":"2013-11-02 15:10:13",
+                "funny":0,
+                "review_id":"Dkw_5GIEhBNrRR5M7j8Flw",
+                "stars":2,
+                "text":"I have been a regular here for three years and lately I am very disappointed with it. Since they started their new policy of heating up more pastries, trying to get a breakfast sandwhich takes forever and its been so chaotic that they have forgotten my order or given mine to sonebody else on a few occasions. Additionally they have run out of breakfast sandwiches a few times now, including today, and its not like I got there too late or anything. Frankly it's become a totally annoying experience when it used to be a nice weekend morning retreat. Too bad the Dilworth neighborhood doesn't have many inexpensive breakfast options any more.",
+                "useful":3,
+                "user_id":"VVqUDoIgftIay5ggfVmRUw"
+            },
+            {
+                "cool":0,
+                "date":"2011-01-26 22:17:12",
+                "funny":0,
+                "review_id":"zuuLPyvT0JL0cmHPe847VQ",
+                "stars":2,
+                "text":"Much bigger inside than I imagined.  I had a conversion weekend with my folks working so they needed coffee early one Sunday morning.  I walked up to the counter and asked about getting two coffee boxes and they indicated it would take.........get this........over 45 minutes?????\n\nWhat?  I didn't see the helicopter in the back where these folks would jump into, to fly to the airport, to take the plane...to fly to the foreign country, where they'd pick the bean, then fly back to Charlotte and brew the coffee..........??  Must have missed that one.\n\nUh...45 minutes it would almost be lunch by then, so I declined.....drove down to Caribou and got 2 boxes of coffee in less than 10 minutes.....Good bye Starbucks........HELLO CARIBOU!!!!",
+                "useful":1,
+                "user_id":"DXh8yxwZCg5Ckj5kmDvKXw"
+            },
+            {
+                "cool":0,
+                "date":"2017-06-18 20:27:22",
+                "funny":0,
+                "review_id":"Yu32cNfRPVxGu0_hQZYXhw",
+                "stars":1,
+                "text":"Since this joint discriminates against Trump supporters, it's better to take one's dollars elsewhere.",
+                "useful":0,
+                "user_id":"1RyI4iR_-9O3jhgSJJolnQ"
+            },
+            {
+                "cool":0,
+                "date":"2016-11-29 16:48:27",
+                "funny":0,
+                "review_id":"-47uMn1RLnxDQzcPHOvbLQ",
+                "stars":1,
+                "text":"Ordered a Flat White yesterday and it was completely burnt and beyond bitter. Hoping my Mom's was better and it was even worse somehow! Very disappointing. We both through ours out just a few sips in.",
+                "useful":9,
+                "user_id":"AmCBzNuXkTCLmH6tnWFQKQ"
+            },
+            {
+                "cool":0,
+                "date":"2012-11-19 13:36:13",
+                "funny":0,
+                "review_id":"V3FLRNotYImBFsYXjlxt6w",
+                "stars":3,
+                "text":"I need to start out by saying that this location would have gotten 2 stars if the place wasn't so great!! I personally do not like Starbucks coffee but the location is so great I often come to sit on the patio which is great almost year round. The service is always great.\n\nWhile parking use to be an issue, it has gotten a lot better. They use to tow you the second you walked in the door if you were parked in a spot that was not marked Starbucks. The city tighten up on towing laws and Starbucks worked out an agreement with the parking lot owners to get a few more spots. I'd still recommend parking only where it stays for Starbucks' customers.",
+                "useful":2,
+                "user_id":"oHdCkOf9gHSMhvJd4JbVrA"
+            },
+            {
+                "cool":0,
+                "date":"2012-12-18 21:10:35",
+                "funny":1,
+                "review_id":"t33-AgW5UCqOp1EuUYNDeg",
+                "stars":4,
+                "text":"I know what yall are thinking. Starbucks? Revoke her Portland, OR card!!!",
+                "useful":0,
+                "user_id":"fvj9dV4e6Fu5T5tM98dCVQ"
+            },
+            {
+                "cool":0,
+                "date":"2018-03-22 19:28:16",
+                "funny":0,
+                "review_id":"spJLIul9rsdvZkD0kiwPtg",
+                "stars":4,
+                "text":"My favorite Starbucks in town. Very cute location and interior vibe. Really busy nearly all the time and loud, though, and sometimes hard to find a spot. Usually 1 or 2 (same) homeless guys who stick around the shop the entire day.",
+                "useful":0,
+                "user_id":"rTN3D8-4TL2RKDOAU6fLcQ"
+            },
+            {
+                "cool":0,
+                "date":"2014-10-21 15:33:13",
+                "funny":0,
+                "review_id":"9BP5yRGz1lycU0qh1ouRuQ",
+                "stars":1,
+                "text":"I went in for 10 minutes to get coffee and the Starbucks spots were taken so I parked in one of the next spots over with absolutely no signs near it. I didn't see the sign that said don't park here without a pass. 10 minutes later I came out and my car had to pay $50 for the guy to take the wheel clamp off. And the coffee wasn't that great either, and was over priced as usual. They need more parking or more signs to warn people of this. I was one of maybe 5 other people who came out to that happening to our cars, one guy who had already had his towed. They apparently come every 10-15 minutes to check. Not worth it. Never ever coming back.",
+                "useful":1,
+                "user_id":"8gN-dGaK2lv9TXlzqy80AQ"
+            },
+            {
+                "cool":0,
+                "date":"2016-11-18 15:56:20",
+                "funny":0,
+                "review_id":"4S2BLuxthBhWuGCuRQWXgA",
+                "stars":1,
+                "text":"This is a typical Starbucks in appearance and products.  No longer will go to this one over the dismal parking situation which is a joke.  See more and more people getting booted in parking lot with very limited spaces. Mix in the customers who basically set up shop with laptops and work conference calls that take up tables and space for hours on end and very limited seating inside.",
+                "useful":8,
+                "user_id":"EL-0qM_TEiL_XIP9dwyChA"
+            },
+            {
+                "cool":0,
+                "date":"2016-08-12 12:49:54",
+                "funny":0,
+                "review_id":"fND4iGjJ2ebt4kGhHMQtcQ",
+                "stars":5,
+                "text":"By far the best Starbucks in Charlotte - I love the exterior look of the building, so much character.  Parking can be tight if you go on busy times.",
+                "useful":1,
+                "user_id":"jDuI1ZfBxcL5iWEJOWK89w"
+            },
+            {
+                "cool":0,
+                "date":"2014-07-23 00:12:10",
+                "funny":0,
+                "review_id":"_cz6uLmSQ0N6JCZHookAdg",
+                "stars":5,
+                "text":"This is easily my favorite Starbucks in Charlotte so far. It's the only location that has asked for my name like they're supposed to, especially when they're busy. (the first time I visited, they didn't, but it seems they were on it the second time around). The staff are friendly and they do a great job with the drinks.\n\nIt's also the most unique Starbucks I've ever been in. Located in an old house, it's not anything like the other Starbucks, other than the counter of course. There is so much seating here, too.\n\nI would only complain about the floor outlets as they don't seem to work for charging your computer. But no other Starbucks I know of has floor outlets. I don't think Starbucks intended people use the floor outlets; I think they were just there previously before the Starbucks moved in. The wall outlets work great. \n\nIt's a busy location, just so you know. You can expect a little delay in your drink but that happens with the business.\n\nThey don't have a drive thru as there's no space for one here. That's not a big deal for me, however, because I take the bus anyway. Public transit is pretty good in Charlotte, though it does tend to run a bit later than scheduled. But buses run late at night as well as the light rail. I would recommend getting to this Starbucks via public transportation just because the parking looks like it could be a little crazy. It's not far from the East/West Blvd Lynx light rail station and it's just one bus ride away, just take route 25 there. \n\nI still want to check out the Steele Creek Starbucks as I've heard good things about it but I think the East Blvd Starbucks will be my regular Starbucks from this point on.",
+                "useful":0,
+                "user_id":"LwgExnxUPg6Beyn7JRVAvA"
+            },
+            {
+                "cool":0,
+                "date":"2008-03-12 17:44:22",
+                "funny":0,
+                "review_id":"GRaLx56mYItEgDn5O-T6QQ",
+                "stars":5,
+                "text":"This place is always packed but it's a convenient location for a caffeine fix.  And if I've got cabin fever from working at home I can sign on to the T-Mobile hotspot and crank out stuff for a few hours while being entertained with all the pedestrian traffic.  It's always funny watching people with laptops jockeying for a seat next to a wall socket.  And it's a completely random mix of customers in here.  \n\nI'm usually on foot but I noticed you need to be careful where you park in the back. There's a sign/diagram on the door to help you figure it out.",
+                "useful":0,
+                "user_id":"c3_AdjAlMy4EJYQhuXADgA"
+            },
+            {
+                "cool":0,
+                "date":"2011-06-26 22:30:58",
+                "funny":0,
+                "review_id":"8A3fTmMh7SwN7k-hPh5EFw",
+                "stars":4,
+                "text":"This is my all time favorite Starbucks. Great location, super outside seating, really friendly staff; truly feels like your home away from home!",
+                "useful":0,
+                "user_id":"ZyhhR2uaK7y0_-IRhDasVA"
+            },
+            {
+                "cool":0,
+                "date":"2015-05-10 00:19:25",
+                "funny":0,
+                "review_id":"Df6kuaQ_RpaZIx9jmAM7gA",
+                "stars":5,
+                "text":"This is my absolute favorite Starbucks ever! I stop in at least 3 times a week and the staff is great, friendly, courteous and fast. Even at rush hour you can get in and out of this location quickly. \n\nThey recently remodeled and the new layout makes it even better when you want to stop and relax or catch up on some work. Great seating arrangement which now maximizes the space. \n\nParking is not always fun, but usually if you are just stopping in and you can find a place to pull into and quickly run in and get your order.",
+                "useful":0,
+                "user_id":"QsOPQAUkLP795j1csg0XpA"
+            },
+            {
+                "cool":0,
+                "date":"2008-10-19 18:55:28",
+                "funny":0,
+                "review_id":"NRDeFHFm-Dj0jODPZQQvLg",
+                "stars":3,
+                "text":"I do like this location, but I really am not a Starbucks fan.  I feel that if you buy a cup of coffee, then you shouldn't have to fork out more money for wireless access.  It just shows a lack of love for the customers.  The guests here range from high school kids to older business folks.  I do like to take care of some work here from time to time, because it is a fun place to people watch.  I just really just like Carioubo more.",
+                "useful":1,
+                "user_id":"_5FF5NN5kHZmGTNuJwpnhg"
+            },
+            {
+                "cool":0,
+                "date":"2014-10-21 13:23:52",
+                "funny":0,
+                "review_id":"t-Co7SpkQO_eTwabs_ifaw",
+                "stars":1,
+                "text":"The customer service here SUCKS.  There is not one good personality or attitude in this entire store.  It is enroute to work so I stop almost everyday and I hate it.",
+                "useful":0,
+                "user_id":"Bq17AoQ9MRo3NlH0FZOwQQ"
+            },
+            {
+                "cool":0,
+                "date":"2015-06-08 12:27:16",
+                "funny":0,
+                "review_id":"5B2c1Yq8VvHMVQ-bIIe1Ww",
+                "stars":2,
+                "text":"The sense of urgency continues to get worse. I could never understand why at 8am on a week day you would have one cashier and one barista.",
+                "useful":1,
+                "user_id":"kwZFpDlXQMJaxSdgAavtbA"
+            },
+            {
+                "cool":0,
+                "date":"2017-11-12 16:28:33",
+                "funny":0,
+                "review_id":"sCMg73vpYxFAdpOhNhbfIg",
+                "stars":3,
+                "text":"It seems like a fun place to work for. Baristas are all having great fun. But really, how can 4 people behind the counter can't fulfill 3 people's order in 20 min? Love the location though",
+                "useful":1,
+                "user_id":"3GpUnMQUBHmu8NtpOrdTrw"
+            },
+            {
+                "cool":0,
+                "date":"2018-02-17 21:25:03",
+                "funny":0,
+                "review_id":"0vIlQ426S-g5JI9jzHBVaQ",
+                "stars":5,
+                "text":"My favorite location! The staff members are so nice and attentive! Went today and had to wait only a few mins but my drink was on the house and was delicious as usual. Coming in is such a treat!",
+                "useful":0,
+                "user_id":"dPB_SZ1ilfff2tIFEvgNtA"
+            },
+            {
+                "cool":0,
+                "date":"2016-02-20 17:07:28",
+                "funny":0,
+                "review_id":"8eWeblbzDm2_sh-kceFnUw",
+                "stars":2,
+                "text":"While it's a nice location inside and outside, they are inefficient..esp on weekday mornings. Mobile ordering doesn't help much. I have quite often waited an additional 10 min for my drink (on top of the 7 min estimate from the app). Good luck getting your drink correct the first time either. They only got 1 of the 3 things I asked for correct this morning-ugh!",
+                "useful":1,
+                "user_id":"kQw70xHdww7fazerZ0BwTQ"
+            },
+            {
+                "cool":0,
+                "date":"2012-10-07 21:49:54",
+                "funny":0,
+                "review_id":"TGTMACEOg3RspdVY4uClJA",
+                "stars":4,
+                "text":"Everytime I visit this Starbucks, I always get my work done! That deserves 3 stars right off the bat. They have the typical selections of any Starbucks, so no surprise there. I do believe their seating and open space is superior to others in the city. The hours are okay, but I certainly wish they were extended a little. The crowd does fluctuate depending on what time of day and what day of week you attend. The baristas are quite polite and do their best to make sure no one is left waiting for their order longer than they should have to. I have no complaints about this Starbucks except for the dreadful parking situation. Be sure to park where it clearly says Starbuck's Parking. Anywhere else could result in your car being removed. I witnessed this happen to a person parked one spot over from a Starbucks parking space, and it was unfortunate.",
+                "useful":0,
+                "user_id":"5cRvek4mSilJ66fhD8eWEw"
+            },
+            {
+                "cool":0,
+                "date":"2018-06-14 23:24:46",
+                "funny":0,
+                "review_id":"aRHIeTTfbkeVP9NK1_DB-A",
+                "stars":5,
+                "text":"I really really enjoy coming here. It's cozy and friendly. I enjoy ordering my stuff online and picking it up without having to interact with anyone. Plus I get a kick out of listening to the barista calling out the fake names that i use. Last week it was \"Mike Litoris\". She didn't call it out but I still laughed inside. I sound like a creepy old dude...but IDGAF. The downside to this place is the parking but I'll live. I'm usually there on Saturdays. I look like Herbert from Family Guy. My real name is Nick H. in case anyone is wondering whilst reading this.",
+                "useful":0,
+                "user_id":"KWkMMM4v_SPP9kkItNLDrQ"
+            },
+            {
+                "cool":0,
+                "date":"2015-05-20 13:28:47",
+                "funny":0,
+                "review_id":"L40Bk_638W9JSNlmmeQ4Fw",
+                "stars":4,
+                "text":"This is a huge Starbucks ... way bigger inside that I imagined it would be. Lots of tables, and a decent sized outdoor patio for all of these nice Charlotte days. I went on a Saturday, and it was pretty crowded. I had to wait for my drink for almost 10 minutes, which was fine because I was in no rush. They basically only had one poor barista doing all of the work .... they really need to be more properly staffed, especially on a Saturday in this busy neighbor so close to a park.  \n\nOur frappuccinos came out perfectly, so the wait was not in vain!",
+                "useful":1,
+                "user_id":"4-Oh0TN8-b9gj12_VUZmAw"
+            },
+            {
+                "cool":0,
+                "date":"2017-12-10 03:43:14",
+                "funny":0,
+                "review_id":"S86LSWLEaL1KCQOI3uIIwA",
+                "stars":2,
+                "text":"Friendly staff but takes extremely long to make one chestnut latte. I probably waited around 15-20 min and there were no other people in the store.",
+                "useful":0,
+                "user_id":"ptpskiAD0jF9D_0NfQ5zOA"
+            },
+            {
+                "cool":0,
+                "date":"2010-12-25 19:31:15",
+                "funny":0,
+                "review_id":"78LX70PfjaKpnQFrXLMLwg",
+                "stars":5,
+                "text":"This Starbucks is one of my favorites in Charlotte. They have plenty of room; tables, comfy chairs and outside seating. You can do anything from meeting a client, doing homework or read a book. Most of the times I have spent hours here enjoying the people watching and free wifi. The only bad part of this location is the parking, be really careful when finding a spot and pay close attention to the signs. Lots of people have gotten their car towed here, is like tow trucks camp out waiting for you to make a mistake.",
+                "useful":1,
+                "user_id":"dt1lyscFrlqW89CTB71IOw"
+            },
+            {
+                "cool":0,
+                "date":"2017-04-06 18:32:00",
+                "funny":0,
+                "review_id":"PLNzV4RZF3cTwibgMWDMEA",
+                "stars":3,
+                "text":"I've never been a huge fan of paying exorbitant amounts of money for a cup of coffee but occasionally if I am with a friend and they want to have a cup, I'll usually join them. This location here always seems to have a problem with getting my order right, I've been here three times and each time the order has not been right. Not a big deal, they fixed it for me but I would think if your paying 5-6 dollars for a cup of coffee it would include the service as well. \n\nThe coffee is okay but not worth the money in my opinion. I think it's no different than any other coffee shop around the area.",
+                "useful":4,
+                "user_id":"RWt0POcoddCr0CtssD1CTg"
+            },
+            {
+                "cool":0,
+                "date":"2016-09-14 04:52:04",
+                "funny":0,
+                "review_id":"Ofw92ky4cz5w5tw6Bu--IQ",
+                "stars":4,
+                "text":"Never left a review for a Starbucks, as I'm not a fan. HOWEVER, this location isn't like others. The inside is beautiful and cozy, the even sell wine. They have a nice full display case of food and plenty of indoor and outdoor seating. I met some friends from out of town at 7pm and we talked until close at 10pm! It's a nice location to take friends or relax. Seriously, never thought I'd like a Starbucks, but here we are.\n\nMake sure you park in the right lot though, the parking can be a bit confusing.",
+                "useful":0,
+                "user_id":"zNzcaPtRlOB_-ODA3BVj8Q"
+            },
+            {
+                "cool":0,
+                "date":"2017-06-16 17:19:19",
+                "funny":0,
+                "review_id":"ZvvQz84DlTdJFGiAKaSrqw",
+                "stars":1,
+                "text":"Horrible location, absolutely rude employees. I do not recommend going here for any reason.  You will not be treated well and you will be discriminated against.",
+                "useful":0,
+                "user_id":"yCaUgOGEHwg-1q6a2CePDA"
+            },
+            {
+                "cool":0,
+                "date":"2014-06-22 17:28:53",
+                "funny":0,
+                "review_id":"ZmgQL_Dp91DCR6IqKqYPfA",
+                "stars":3,
+                "text":"The place is nice and Big! lots of seating space with a few comfy seats such as lazyboy style seats. In a really cute house looking thing. The service is ok. A little more friendly would really make this place pop.",
+                "useful":0,
+                "user_id":"hqmK61cMu_QdMFOpsEOxMw"
+            },
+            {
+                "cool":0,
+                "date":"2018-03-11 16:48:29",
+                "funny":0,
+                "review_id":"pHZ61dqCxD3_Az_4bAlAnA",
+                "stars":2,
+                "text":"I'm really torn.  This is probably my favorite location in Charlotte in terms of ambiance and the amount of seating.  However, the last few times I've been here, they've gotten my order wrong.  One time I ordered a drink hot and it came out iced, another time I ordered a drink with soy and they used regular milk, and another time I ordered a venti and they gave me a grande.  This location gets very loud and I feel like the baristas have a hard time hearing what you're saying.  I've had to repeat things several times to make sure they hear me.",
+                "useful":0,
+                "user_id":"mLvxWKlca_Ke0sWYaUcG2A"
+            },
+            {
+                "cool":0,
+                "date":"2011-08-14 04:02:26",
+                "funny":0,
+                "review_id":"ywr_JCq9hZ5QaWL-ZiU-bg",
+                "stars":4,
+                "text":"A great Starbucks in a great community. The staff is friendly, the music is amazing, and the energy there is just great. My only complaint? Finding parking is kind of a pain.",
+                "useful":0,
+                "user_id":"t__3_gYyQT368pNQomH-9A"
+            },
+            {
+                "cool":2,
+                "date":"2016-01-10 21:53:15",
+                "funny":1,
+                "review_id":"RSJ2JZYDj3xgRFoo6IREMw",
+                "stars":3,
+                "text":"This location may look small from the outside, but it's pretty big. They have lots of seating areas (inside and out) and tables-about 20, however this location is always BUSY! I was there today (Sunday) and there was not one place to sit or park. Oh and let's talk about parking. The lot, behind Starbucks, is a wreck. They need to redo this lot soon- cracks, pot holes and not enough customer parking. I've heard the company that owns the lot is known for booting cars that don't park in Starbucks marked spots as the rest of the lot is \"by permit\".\n\nLike I said before, this location is always busy and they seemed to always be under staffed when I've been here (only 1 cashier and 1 barista). It look 10 minutes for my drink to get made today, but I'll return again because Starbucks is like overpriced crack (ps I don't do crack or know if it's overpriced hehe)",
+                "useful":4,
+                "user_id":"EtFYEN0sbxkZOOt3DE7vWg"
+            },
+            {
+                "cool":0,
+                "date":"2015-08-28 19:42:30",
+                "funny":0,
+                "review_id":"mF2Bch588BYOExvZtYgkTg",
+                "stars":1,
+                "text":"The location is fine. However, if you want to park before purchasing your drink, you are not in luck. After grabbing a 5 minute coffee with 4 other coworkers I came outside to find my car booted. I learned that another patron was booted minutes before me, and I saved 3 others from getting booted in the same UNMARKED SPOTS. The towing Company \"United Towing\" has a F from the BBB, for good reason. There is clearly predatory booting/towing occurring in this lot. \n\nI will never spend another penny at this Starbucks because it is going to the towing company instead.",
+                "useful":8,
+                "user_id":"hXNewQ2Wc3CvOwrx2mWH_A"
+            },
+            {
+                "cool":1,
+                "date":"2012-04-17 16:07:21",
+                "funny":0,
+                "review_id":"xA8LSMHaiccTa5lD8Qvgig",
+                "stars":5,
+                "text":"Ahh..home away from home!  This Starbucks offers plentiful seating, outlets, coffee aromas, and most importantly to me ENERGY!  I have found comfort and inspiration coming here to get some work completed!  As a \"work from home\" type I find the underground network here very refreshing!  Not to mention the coffee is always hot and prompt.  The whole experience gets my creative juices flowing!  Parker beware...only park in the DESIGNATED spaces.  They are not kidding and you will get a boot, but not of the nice leather variety!",
+                "useful":1,
+                "user_id":"zey45XUlGxopNW-ijzTKSw"
+            },
+            {
+                "cool":0,
+                "date":"2011-09-13 21:54:52",
+                "funny":0,
+                "review_id":"KhEatvECmxvdhOs06NuH_A",
+                "stars":4,
+                "text":"So I really enjoyed this location... I like the \"feel\" of this place -- it's has a \"lounge\" area with big comfy chairs and ottomans. There seems to be plenty of outlets and seating. The wait staff was superb! \n\nYea parking is a bitch, but I've been lucky so far. I do like this neighborhood, so I don't mind the drive. \n\nThey accept AMEX and they have free wi-fi. \n\nI will frequent this location. \n\n****Oh there are FINE ASS men here in the QC... spotted several at this location... hahaha! Always a plus with your caffeine high... you know... with a buzz you're willing to talk to anyone!!!! Shyness out the door! Yum coffee, wi-fi, and eye candy... thanks Dilsworth!",
+                "useful":0,
+                "user_id":"oWxy_YR6n2w8e9L00hxhPw"
+            },
+            {
+                "cool":1,
+                "date":"2017-04-28 10:57:29",
+                "funny":3,
+                "review_id":"KIW_s2j0fIrxezdKRaAOxA",
+                "stars":1,
+                "text":"Hey Starbucks - if mobile order isn't working how about telling folks so they don't just stand around. This is second time in a week. Bad service -",
+                "useful":13,
+                "user_id":"N_WB5usUFVBYI_8g7nnh-g"
+            },
+            {
+                "cool":1,
+                "date":"2014-11-11 13:43:37",
+                "funny":1,
+                "review_id":"0JTpzeemSHX5BwMzPxCDNg",
+                "stars":3,
+                "text":"I am giving this Starbucks location 3 stars due to the lack of employee awareness to customers. \n\nStory: I arrived at 5:50 am on a weekday to finish report cards and at the time was the only customer seated in Starbucks. Three employees started to engage in a personal conversation, that was entirely too loud. I was seated across the room and could here their full conversation. This went on for about 10 minutes. I understand they were not busy at this time of the morning and having personal conversations, however the lack of customer awareness and the volume of their speaking was very disappointing. \n\nThere also was no music playing ( I really just wanted that coffee shop music and get in that work zone). I asked if they could turn it on and a employee said it was broke. \n\nAs more customers started sitting, the baristas got busy and their personal conversations died down.",
+                "useful":2,
+                "user_id":"Obk11sbuX8FARq4ED59XOQ"
+            },
+            {
+                "cool":1,
+                "date":"2011-01-02 20:46:55",
+                "funny":0,
+                "review_id":"7791XerGricyqkgVjP914A",
+                "stars":4,
+                "text":"Cozy, little Starbucks nestled right in the heart of Dilworth. Some of the friendliest baristas I've seen and lots of room to sit,  wash down a java and enjoy the free wi fi. I love the patio area that faces East Blvd, it's a perfect place to sit on a Sunday morning and people watch.\n\nBut, anyone who has been there knows why I am not going to give it five stars: The cluster f*&* that is their parking lot. If you have to drive to this joint, chances are you aren't going to find a spot and beware of the Key Man ....which is super annoying b/c when I see the signs seeing the Key Man will tow you away, I automatically get the \"Scatman\" song in my head. Luckily, I live within walking distance to this Bucks but just watch out if you do drive.",
+                "useful":4,
+                "user_id":"l-tDF960t9BakjyH34XfTA"
+            },
+            {
+                "cool":0,
+                "date":"2015-11-13 17:23:39",
+                "funny":0,
+                "review_id":"YsDp7SSKhnMMYYlfU_G9bQ",
+                "stars":5,
+                "text":"Really neat Starbucks, lots of cool energy and consistency of service Starbucks is known for.",
+                "useful":0,
+                "user_id":"KWEQTXCvw15aQQw2dH6FjA"
+            },
+            {
+                "cool":0,
+                "date":"2014-10-09 01:53:38",
+                "funny":0,
+                "review_id":"4gmGOQHHZa81-xXOIy8ZRg",
+                "stars":5,
+                "text":"This place is huge and still always full! I love the energy and positive environment. The patio is secluded and really nice. \nI take a lot of my coworkers to this place",
+                "useful":0,
+                "user_id":"cxKdIlgEOUiweY-joDEWDg"
+            },
+            {
+                "cool":0,
+                "date":"2012-11-29 20:36:07",
+                "funny":0,
+                "review_id":"2-vr-eO_Yy4h5cuG7YgtyQ",
+                "stars":4,
+                "text":"I love this place. The lay out is in an old house. Great location in Dilworth. Service is very professional. \n\nA big knock: Parking can be tough when it gets busy.",
+                "useful":1,
+                "user_id":"o-IP9-MSTsJpI48JnkNqIA"
+            },
+            {
+                "cool":0,
+                "date":"2010-01-04 16:30:19",
+                "funny":1,
+                "review_id":"hy8NoLy_S7ks-JZIQyMWvw",
+                "stars":5,
+                "text":"My favorite one in Charlotte b/c it is not in a strip mall.  Parking can be tricky but you can always find it on the street.",
+                "useful":0,
+                "user_id":"ot0QRLc_8O1gnAHrJRlh8Q"
+            },
+            {
+                "cool":0,
+                "date":"2018-08-24 16:54:38",
+                "funny":0,
+                "review_id":"fGLBntTAOBtz3a3kiyMWJg",
+                "stars":2,
+                "text":"The baristas were more interested in talking and joking with each other than serving the customers standing in front of them.  Not only were they not paying attention and made the wrong drink for me. I also had to order a scone twice and then had to ask for it because they didn't give it to me.  Im all for having fun at work, but not at the expense of the customers.",
+                "useful":0,
+                "user_id":"0q34puaINqlAUCIVla0klw"
+            },
+            {
+                "cool":0,
+                "date":"2015-08-18 21:41:19",
+                "funny":0,
+                "review_id":"kXJTZM0-zHQK-8CPLFf1GQ",
+                "stars":5,
+                "text":"I have always loved the physical structure of this particular Starbucks. The cottage set up is beautiful and makes this place special. My drink has always been correct and I honestly haven't had that hard of a time finding parking. Previously, I was hesitant to visit this location because of the lack of work space. However, all of that changed with the recent remodel. There is now plenty of seating and electrical outlets. Every time that I have been in since the remodel, I have easily been able to find a work space. I now go out of my way to go to this specific location. \n\nDefinitely recommend.",
+                "useful":1,
+                "user_id":"QGKOTCbS-gpAMWPADGmf0w"
+            },
+            {
+                "cool":1,
+                "date":"2015-10-05 14:22:32",
+                "funny":0,
+                "review_id":"LlEthE6W1hnBMrypSTg9Yg",
+                "stars":4,
+                "text":"I am not a Starbuck's fan, but living a block away, and when your power is out, coffee is coffee, right? Well, maybe not to some people. I have been to this location in the past, but as I said I am not a regular, but have never been disappointed with my visit.\n\nThis seems to be a hot spot, with several tables, couches and a communal counter, allowing visitors to catch up at the counter, set up laptops to work or just enjoy the paper.  The staff is always friendly and the service does not disappoint.  I am a standard coffee drinking, light roast, but do find even the light roast is strong for my taste..as I am wired before even finishing my grande...is that the medium?  Anyway, Starbuck's is a definite go to spot for coffee, iced coffee, speciality coffee drinks and pastries, including bagels, muffins, breakfast sandwiches, cake pops and plenty more.\nHowever, as others have mentioned, be aware of the Parking Signs..This location has limited parking and spaces are identified, so use the Starbuck's spots as the towing company does not hesitate to tow your car if they catch up...;-).",
+                "useful":3,
+                "user_id":"qUL3CdRRF1vedNvaq06rIA"
+            },
+            {
+                "cool":0,
+                "date":"2018-08-13 03:24:34",
+                "funny":0,
+                "review_id":"rewGEQtrbCERWEHqVedckA",
+                "stars":1,
+                "text":"Everyone was polite, it was clean! I love the patio and how much space they have to sit ! Unfortunately I did wait 20 mins for my drink! I think they might of just had a newbie!",
+                "useful":0,
+                "user_id":"Q1Ig-BtjFm4jTWT0YFnCQA"
+            },
+            {
+                "cool":0,
+                "date":"2017-12-29 07:54:25",
+                "funny":0,
+                "review_id":"8IIY0KUW9PgyLOpdr2ql3w",
+                "stars":1,
+                "text":"My Salted Carmel low fat iced machiatto was made incorrectly and the guy there made rude comments about a hat someone else (another customer) was wearing. Employees write rude, weird things on cups and think it's funny. They seem to think they are better than the guests and they are incapable of making the specialty drinks correctly. I can't stand going in here and drive out of my way to go to a different one. They take SO MUCH LONGER than anyone else does and seem to be moving in ultra slow motion. Really bad service, poorly made drinks and RUDE beyond words. NEVER going back. I am in Charlotte a lot and have decided to go to DD or find a different Starbucks in the area.",
+                "useful":0,
+                "user_id":"w_7cmyvUdHoissD6vGlLfg"
+            },
+            {
+                "cool":1,
+                "date":"2018-09-30 22:03:02",
+                "funny":0,
+                "review_id":"yHG_sCGbIFkPPiZpWk0PxQ",
+                "stars":2,
+                "text":"Did a mobile order. Way too long to get it. There was one guy making drinks and two other guys standing behind the counter doing absolutely nothing.  Made no sense to me. Won't be in a hurry to return.",
+                "useful":4,
+                "user_id":"qvPTw-ArHYI1n1n0cw3S7A"
+            },
+            {
+                "cool":0,
+                "date":"2011-08-20 23:43:48",
+                "funny":0,
+                "review_id":"eu4uMre0nb5AVS8YM9IUNg",
+                "stars":4,
+                "text":"This is my favorite Starbucks before or after my volunteer shift @ Levine Children's Hospital. \nGranted parking is extremely limited, usually I hit the after church crowd on Sundays.\nThe Baristas are quick, friendly & make my grande skinny caramel macchiato perfectly!\nI love the layout of the shop, too. Nice, long tables & \"bar type\" seating.",
+                "useful":1,
+                "user_id":"exEElE4pG-ZwoCMwoYddeg"
+            },
+            {
+                "cool":0,
+                "date":"2011-06-20 19:40:14",
+                "funny":0,
+                "review_id":"60glWJnCQRhbEsmPlHGPDw",
+                "stars":4,
+                "text":"Four stars for location, atmosphere, and outside patio seating. \nI'm not a fan of Starbucks coffee so I can't say the coffee was memorable. \nBut I did like their black iced tea (with half the sweetener...I know Southerners like their sweet tea, but it's a tad too sweet for my taste).\nI enjoyed hanging out at the patio tables outside when the weather was nice and not too hot. \nMinus a star for weird parking situation in the back. If you park in the wrong section, which belongs to another business, you can get a ticket! So parkers beware!",
+                "useful":1,
+                "user_id":"hnTFp0r9lQ1-2KwRkhCy3A"
+            },
+            {
+                "cool":1,
+                "date":"2015-08-16 16:40:00",
+                "funny":0,
+                "review_id":"bmoDRdFe0hxj7nVL37K1ew",
+                "stars":5,
+                "text":"My favorite Starbucks in Charlotte. \n\nThis location was the closest to my former workplace, so I was a frequent customer. I loved the cozy feeling of being in an old former house. \n\nIt's cozy but it's spacious, which I love since I usually come to Starbucks to work or read and stay awhile. There's ample seating, although during busy weekday hours, you might have to wait for a seat. \n\nCame by today for the first time since March, and the newly renovated space totally blew me and my interior design-loving self away. It's still got that cozy house feel but now it's also got that modern chic vibe going on with hardwood wall panels, neat lighting fixtures, black brick, etc. \n\nStill my favorite Charlotte Starbucks; now it's just more elevated and prettier.",
+                "useful":1,
+                "user_id":"WhuyY_WhtLh9iQSgqgCdvA"
+            },
+            {
+                "cool":1,
+                "date":"2011-03-10 13:46:52",
+                "funny":0,
+                "review_id":"ZEGH58OXcks20MM4u7M3iQ",
+                "stars":2,
+                "text":"They need to correct the parking situation. The store is enormous with tons of seating and it might be a great place to meet someone or to read for a few hours. But it is basically impossible to park. There are maybe 15 spots in the back and they are full all day. I usually end up cruising the lot until someone leaves, then doing battle with other customers. Thrilling, but not what I am looking for in a Starbucks.",
+                "useful":1,
+                "user_id":"8-c_N_vSkwVieg8sHn_Ppw"
+            },
+            {
+                "cool":0,
+                "date":"2011-03-08 21:58:50",
+                "funny":0,
+                "review_id":"5bjbgVaFmAGOM7qq9vlrOQ",
+                "stars":5,
+                "text":"I don't really feel like a Starbucks needs to be reviewed per se, since its product is standard across the country.  However, I will say that the environment of this particular location is what makes it better than any other in Charlotte. It is VERY spacious, and there are ample outlets situated around the store for you to plug in your lap top.  I've literally parked it here for hours doing school work and no one ever bothers me.  The only negative is parking.  If you come here during peak times (i.e. saturday afternoon, or the after work rush) parking is a beast.  Be aware that there are towing sharks around here.  Towing has been such a problem that Starbucks has a huge chart on their front door showing where and where not to park.  Other than that, this has been my new fav school work/caffeine intake hangout!",
+                "useful":2,
+                "user_id":"WPNPOHwyyzDH2QBI9ketcg"
+            },
+            {
+                "cool":0,
+                "date":"2014-12-15 01:04:52",
+                "funny":0,
+                "review_id":"l285BAeLgO3Ll9CmW4pg3g",
+                "stars":4,
+                "text":"What can I say, it's Starbucks...  Lol  I do enjoy this location for the atmosphere. A great spot to people watch.",
+                "useful":0,
+                "user_id":"lZ7SlyS4AyI8_R6QTdwTdA"
+            },
+            {
+                "cool":0,
+                "date":"2012-02-28 01:24:14",
+                "funny":0,
+                "review_id":"vt2feOXoxpEXfygHGaVprA",
+                "stars":3,
+                "text":"I will admit that I am a coffee snob so Star Bucks does not resonate well with me most of the time. I see it as the Mcdonalds of coffee, all about convince. So this Star Bucks does not offer anything different than its carbon copies around town in terms of coffee or food, but what it does offer is a massive selection of seating. The seating area of this Star Bucks is nearly on par with a small food court with the addition of the amazing patio. I feel like this balances out the sub par coffee because its such a relaxing Star Bucks.",
+                "useful":0,
+                "user_id":"kvSbYKO9Ir6gSgXNgWPDKA"
+            },
+            {
+                "cool":0,
+                "date":"2018-10-19 20:29:59",
+                "funny":0,
+                "review_id":"K0SnJLrLtlwl027ISr0Y6Q",
+                "stars":1,
+                "text":"Even though this location is close to my job, the barista lady with long thick curly hair is unenthused and rude. Not to mention, there are baristas that obviously take their time and show no sense of urgency.\nIt does take about five minutes or more when waiting for food I ordered after receiving my drink. I absolutely DO NOT recommend coming here in the afternoon because the service is beyond poor.",
+                "useful":0,
+                "user_id":"I8flth7ZMjES03pgNRK3nA"
+            },
+            {
+                "cool":0,
+                "date":"2017-11-07 15:55:18",
+                "funny":0,
+                "review_id":"bgtoPXEKWjnH3_n5aGDSYw",
+                "stars":3,
+                "text":"Being a little lenient on this one because it always takes a long time for my drink to come out because it is always busy. It took over five minutes to get some pastries I ordered that didn't even need to be warmed up. I will say that they always get my drink right, it is kind of worth the wait of 15 minutes. Maybe they have some staffing issues or the people there aren't used to a huge rush.",
+                "useful":1,
+                "user_id":"I8flth7ZMjES03pgNRK3nA"
+            },
+            {
+                "cool":0,
+                "date":"2014-11-28 01:59:16",
+                "funny":0,
+                "review_id":"d8qWIm8iWm-SdwU7C61lzw",
+                "stars":4,
+                "text":"The ambience are very nice, though interiors show deterioration (water stains on ceilings, pain chips etc). However it's not like the standard \"Starbucks\" atmosphere, which is very refreshing. I didn't like the service though, staff are not that friendly and attentive. Drinks are not up to par with some other local Starbucks I know either.",
+                "useful":0,
+                "user_id":"Exgv16k04jwqvIRxbLNYMg"
+            },
+            {
+                "cool":0,
+                "date":"2017-06-16 17:41:40",
+                "funny":0,
+                "review_id":"9tZ7yVVuZqOg5dejXi9wZQ",
+                "stars":5,
+                "text":"The staff here is trained extremely well by Howard Shultz.  They are all perfect little political robots.  Hail Shultz!",
+                "useful":0,
+                "user_id":"sumtVwn7U99V0So5JAA-5g"
+            }
+        ]
+    }
+]
